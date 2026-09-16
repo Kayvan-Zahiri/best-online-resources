@@ -19,17 +19,33 @@ A curated collection of the best online resources, including web tools, develope
 - [🏆 Gaming Databases & Community Hubs](#-gaming-databases--community-hubs)
 - [💾 Torrent Search Engines & Indexers](#-torrent-search-engines--indexers)
 - [💻 Coding Courses & Learning Platforms](#-coding-courses--learning-platforms)
+- [🧑‍💻 Coding Practice, Projects & References](#-coding-practice-projects--references)
 - [🛠️ Developer Tools & Boilerplates](#️-developer-tools--boilerplates)
+- [🎨 UI Component Libraries & CSS Frameworks](#-ui-component-libraries--css-frameworks)
+- [🌈 CSS Generators & Visual Tools](#-css-generators--visual-tools)
+- [⚡ Vite, Webpack & Build Tool Ecosystem](#-vite-webpack--build-tool-ecosystem)
+- [🏗️ Diagramming & Software Architecture Tools](#️-diagramming--software-architecture-tools)
+- [🖌️ Icons, SVGs & Visual Assets](#️-icons-svgs--visual-assets)
+- [🏷️ Logo Resources & Brand Assets](#️-logo-resources--brand-assets)
+- [🎨 Design Assets & Typography Resources](#-design-assets--typography-resources)
+- [🖼️ Graphic Design Resources & Freebies](#️-graphic-design-resources--freebies)
+- [🌐 Web Templates & Theme Marketplaces](#-web-templates--theme-marketplaces)
+- [🎵 Sound Effects, Stock Media & Video Assets](#-sound-effects-stock-media--video-assets)
+- [⬇️ Premium Asset Downloaders & Unlockers](#️-premium-asset-downloaders--unlockers)
 - [🤖 AI-Powered Tools & Assistants](#-ai-powered-tools--assistants)
 - [🔍 SEO, Keyword Research & Analytics](#-seo-keyword-research--analytics)
 - [✍️ Writing, Plagiarism & Content Tools](#️-writing-plagiarism--content-tools)
 - [📄 Resume Builders & Career Tools](#-resume-builders--career-tools)
+- [🎓 Scholarships & Global Opportunities](#-scholarships--global-opportunities)
+- [☁️ Cloud Computing & Certification Prep](#️-cloud-computing--certification-prep)
 - [📚 Books, Philosophy & Digital Libraries](#-books-philosophy--digital-libraries)
+- [🗣️ Language Learning & Communication](#️-language-learning--communication)
+- [📖 Islamic Studies & Spiritual Resources](#-islamic-studies--spiritual-resources)
 - [🎓 Free Courses, eBooks & Study Notes](#-free-courses-ebooks--study-notes)
 - [🖼️ Image Compression & Media Utilities](#️-image-compression--media-utilities)
-- [🎨 Design Assets & Typography Resources](#-design-assets--typography-resources)
 - [🔧 Software Downloads & Activation Tools](#-software-downloads--activation-tools)
 - [🌐 Proxy, Privacy & Utility Services](#-proxy-privacy--utility-services)
+- [🧰 Multi-Purpose Online Toolkits](#-multi-purpose-online-toolkits)
 - [📢 Miscellaneous & Uncategorized Gems](#-miscellaneous--uncategorized-gems)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
@@ -112,6 +128,7 @@ Stream movies, TV series, anime, and cartoons directly in your browser — no do
 | 68 | [FMovies-co.net](https://fmovies-co.net/home) | Yet another reliable FMovies mirror for uninterrupted streaming. |
 | 69 | [Downloads-AnyMovies](https://www.downloads-anymovies.co/) | Direct-download movie portal with organized category browsing. |
 | 70 | [FilmAlb](https://filmalb.net/en/movies) | Albanian and international movie streaming with English subtitles. |
+| 71 | [MangaTV](https://mangatv.shop/) | Manga and anime streaming portal with dubbed content libraries. |
 
 ---
 
@@ -164,6 +181,7 @@ Find and download subtitles in every language for any movie or show.
 | 5 | [YTS-Subs](https://yts-subs.com/) | Subtitles specifically matched to YTS movie releases. |
 | 6 | [SubF2M](https://subf2m.co/) | Subscene alternative with a fast subtitle search and download experience. |
 | 7 | [MoviePosterDB](https://www.movieposterdb.com/) | Movie poster database — great companion resource for media collections. |
+| 8 | [FreeSubtitles.ai](https://freesubtitles.ai/) | AI-powered subtitle generator that auto-creates captions for any video file. |
 
 ---
 
@@ -295,6 +313,36 @@ Free and paid courses, tutorials, and bootcamps for developers.
 | 7 | [Web Dev Bootcamp (GitHub)](https://github.com/shanibider/The-Complete-2024-Web-Development-Bootcamp) | Complete web development bootcamp repository with code and resources. |
 | 8 | [CodeCrumbs](https://www.codecrumbs.co/) | Visual tool to learn and understand codebases through interactive diagrams. |
 | 9 | [Crackmes](https://crackmes.one/lasts/1) | Reverse engineering challenges to sharpen your binary analysis skills. |
+| 10 | [Codedamn](https://codedamn.com/dashboard) | Interactive coding platform with built-in IDE and project-based learning. |
+| 11 | [Roadmap.sh](https://roadmap.sh/java) | Community-driven developer roadmaps for every tech stack and role. |
+| 12 | [Exercism](https://exercism.org/) | Free code practice and mentorship across 70+ programming languages. |
+| 13 | [DiceCamp](https://dicecamp.com/home) | Tech bootcamp platform offering structured coding and cloud training programs. |
+
+---
+
+## 🧑‍💻 Coding Practice, Projects & References
+
+Project ideas, code repositories, online IDEs, and quick-reference cheat sheets.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [LeetCode Interview](https://interview.leetcode.com/interview/login/) | Mock interview simulator with real coding problems from top tech companies. |
+| 2 | [HackerRank](https://www.hackerrank.com/dashboard) | Competitive programming platform with challenges across algorithms and data structures. |
+| 3 | [JSFiddle](https://jsfiddle.net/) | Online code playground for testing HTML, CSS, and JavaScript snippets live. |
+| 4 | [NevonProjects](https://nevonprojects.com/) | Massive repository of final-year project ideas across CS, IT, and engineering. |
+| 5 | [1000Projects](https://1000projects.org/) | Free downloadable student project source code across multiple technologies. |
+| 6 | [Code-Projects.org](https://code-projects.org/) | Open-source projects in C, C++, Java, Python, and PHP for students. |
+| 7 | [ProjectsGeek](https://projectsgeek.com/) | Academic project repository with documentation and source code. |
+| 8 | [ITSourceCode](https://itsourcecode.com/) | Free source code and tutorials for student and developer projects. |
+| 9 | [CodeWithC](https://www.codewithc.com/) | Programming projects, tutorials, and source code in C, C++, Java, and Python. |
+| 10 | [CodeMentor Projects](https://www.codementor.io/projects) | Curated real-world project ideas to build your developer portfolio. |
+| 11 | [CodePal AI](https://codepal.ai/) | AI code generator that writes functions, classes, and scripts from descriptions. |
+| 12 | [AI Code Generator Pro](https://www.aicodegenerator.pro/) | Generate production-ready code using AI from natural language prompts. |
+| 13 | [Locofy.ai](https://www.locofy.ai/) | Convert Figma and Adobe XD designs to production-ready frontend code. |
+| 14 | [QuickRef.me — CSS3](https://quickref.me/css3) | Beautifully formatted CSS3 cheat sheet with searchable property reference. |
+| 15 | [CSS Code Generators (Medium)](https://bootcamp.uxdesign.cc/10-best-css-code-generators-for-2022-e9d0b8835e90) | Curated article listing the 10 best CSS code generator tools. |
+| 16 | [UnethicalHacker.in](https://unethicalhacker.in/) | Ethical hacking tutorials, resources, and cybersecurity learning material. |
+| 17 | [HackingTool (GitHub)](https://github.com/Z4nzu/hackingtool) | All-in-one hacking toolkit — a collection of pentesting tools in one script. |
 
 ---
 
@@ -342,6 +390,400 @@ Essential web development tools, starter templates, and productivity boosters.
 | 36 | [Clerk](https://clerk.com) | Drop-in authentication and user management for modern web apps. |
 | 37 | [Cloudflare](https://cloudflare.com) | Global CDN, DNS, DDoS protection, and edge computing platform. |
 | 38 | [Stripe Testing Docs](https://docs.stripe.com/testing) | Official Stripe documentation for testing payment integrations. |
+| 39 | [Lucidchart](https://lucid.app/documents/?referringApp=canvas2024#/home?folder_id=recent) | Collaborative diagramming and visual workspace for teams. |
+| 40 | [WebDevHome](https://webdevhome.github.io/) | Curated homepage dashboard with quick links to essential web dev resources. |
+| 41 | [AlternativeTo](https://alternativeto.net/) | Find software alternatives and replacements for any app or service. |
+
+---
+
+## 🎨 UI Component Libraries & CSS Frameworks
+
+Ready-to-use component libraries, design systems, and UI frameworks for rapid development.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [shadcn/ui](https://ui.shadcn.com/docs) | Beautifully designed, accessible component library built on Radix UI and Tailwind. |
+| 2 | [DaisyUI](https://daisyui.com/components/hero/) | The most popular Tailwind CSS component library with 50+ themed components. |
+| 3 | [Flowbite](https://flowbite.com/docs/components/navbar/) | Open-source Tailwind CSS component library with interactive JavaScript widgets. |
+| 4 | [NextUI](https://nextui.org/docs/guide/introduction) | Beautiful, fast React UI library built on top of Tailwind CSS. |
+| 5 | [MUI Material](https://mui.com/material-ui/customization/color/) | Google's Material Design component library for React with rich theming. |
+| 6 | [Ant Design](https://ant.design/components/button) | Enterprise-grade React UI framework with a comprehensive component set. |
+| 7 | [Evergreen](https://evergreen.segment.com/components) | React UI framework by Segment for building ambitious products on the web. |
+| 8 | [Preline](https://preline.co/docs/dark-mode.html) | Open-source Tailwind CSS component library with dark mode and accessibility. |
+| 9 | [MerakiUI](https://merakiui.com/components) | Beautiful Tailwind CSS components that support RTL and dark mode. |
+| 10 | [Aceternity UI](https://ui.aceternity.com/components) | Stunning animated UI components built with Tailwind and Framer Motion. |
+| 11 | [UIverse](https://uiverse.io/elements) | Open-source UI element library with community-created buttons, cards, and more. |
+| 12 | [Hover.dev](https://www.hover.dev/components/links#) | Animated Tailwind CSS components with smooth hover and transition effects. |
+| 13 | [TailBlocks](https://tailblocks.org/) | Ready-to-use Tailwind CSS blocks for landing pages — 60+ responsive layouts. |
+| 14 | [TW Elements](https://tw-elements.com/snippets/) | Bootstrap-quality components rebuilt with Tailwind CSS. |
+| 15 | [Tailwind Components](https://tailwindcomponents.com/cheatsheet/) | Community-driven Tailwind CSS component gallery and cheat sheet. |
+| 16 | [Tailwind Components Gradient](https://tailwindcomponents.com/gradient-generator/) | Visual Tailwind CSS gradient generator with live preview. |
+| 17 | [FloatUI](https://floatui.com/tailwind-ui-free) | Modern, free Tailwind CSS UI components with responsive designs. |
+| 18 | [TailKits](https://tailkits.com/free-components/) | Free Tailwind component library with templates and code generators. |
+| 19 | [TailKits Templates](https://tailkits.com/templates-kits/) | Premium Tailwind CSS template kits for SaaS, portfolios, and landing pages. |
+| 20 | [TailKits Code Generator](https://tailkits.com/components/tailwind-css-code-generator/) | Generate Tailwind component code from visual selections. |
+| 21 | [TailSpark](https://tailspark.co/components) | Professionally designed Tailwind CSS components for modern web apps. |
+| 22 | [Tailbits](https://www.tailbits.com/components/free) | Free, copy-paste Tailwind CSS components for rapid UI building. |
+| 23 | [ReadyMadeUI](https://readymadeui.com/) | 700+ free Tailwind CSS UI blocks ready for production use. |
+| 24 | [FancyTailwind](https://fancytailwind.com/app/fancy-laboratory/atoms/buttonsocials) | Social media button components and UI atoms built with Tailwind CSS. |
+| 25 | [TailwindFlex](https://tailwindflex.com/) | Community-curated Tailwind CSS component snippets and examples. |
+| 26 | [Shuffle.dev](https://shuffle.dev/components/tailwind/all/pricing) | Visual drag-and-drop page builder supporting Tailwind, Bootstrap, and more. |
+| 27 | [RewindUI](https://rewind-ui.dev/components/accordion) | React + Tailwind component library with accessibility and animation focus. |
+| 28 | [SaaSBlocks](https://saasblocks.app/docs/components/accordion) | SaaS-focused UI component library with pre-built sections and blocks. |
+| 29 | [Landing Folio](https://www.landingfolio.com/library/hero/tailwind) | Curated library of landing page hero sections and design inspiration. |
+| 30 | [UIBall](https://uiball.com/) | Free, lightweight loading animations and spinners for web projects. |
+| 31 | [TUK](https://tuk.dev/components) | Premium-quality Tailwind CSS UI components with live previews. |
+| 32 | [BTW.so — GPT Tailwind](https://www.btw.so/tools/chat-gpt-tailwind-css-components) | Generate Tailwind CSS components using ChatGPT prompts. |
+| 33 | [MicroApp AI Generator](https://www.microapp.io/ai-component-generator) | AI-powered component generator producing Tailwind and React code. |
+| 34 | [Night TailwindCSS](https://night-tailwindcss.vercel.app/docs/padding) | Dark-themed Tailwind CSS documentation and reference browser. |
+| 35 | [Hamburgers CSS](https://jonsuh.com/hamburgers/) | Tasty CSS-animated hamburger menu icons — 100% CSS, zero JS. |
+| 36 | [Hamburger React](https://hamburger-react.netlify.app/) | Animated hamburger menu icons as React components. |
+| 37 | [Tailwind Cheat Sheet (NerdCave)](https://nerdcave.com/tailwind-cheat-sheet) | Complete visual cheat sheet for all Tailwind CSS utility classes. |
+| 38 | [Tailwind Helper](https://www.tailwindhelper.com/) | Interactive Tailwind CSS class explorer and search tool. |
+| 39 | [Tailwind Match](https://tailwind-match.netlify.app/) | Find the closest Tailwind CSS class for any CSS property value. |
+| 40 | [CSS to Tailwind](https://hymhub.github.io/css-to-tailwind/) | Convert vanilla CSS code to equivalent Tailwind CSS utility classes. |
+| 41 | [Tailwind Config Viewer](https://rogden.github.io/tailwind-config-viewer/#Max%20Width) | Visualize your Tailwind CSS config with an interactive browser. |
+| 42 | [Bootstrap 5 Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/) | Official Bootstrap 5 documentation for responsive web development. |
+| 43 | [MD Bootstrap Dividers](https://mdbootstrap.com/docs/standard/content-styles/dividers/) | Material Design Bootstrap components for content dividers and styling. |
+| 44 | [W3Schools CSS Reference](https://www.w3schools.com/cssref/playdemo.php?filename=playcss_align-items) | Interactive CSS property demos from W3Schools for hands-on learning. |
+| 45 | [W3CSS Buttons](https://www.w3schools.com/w3css/w3css_buttons.asp) | W3.CSS button reference with styling examples and live demos. |
+| 46 | [WebCode Tools](https://webcode.tools/) | Collection of code generators for CSS, HTML, meta tags, and Open Graph. |
+
+---
+
+## 🌈 CSS Generators & Visual Tools
+
+Visual generators for gradients, shadows, animations, grids, and more.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [UI Colors](https://uicolors.app/create) | Generate complete Tailwind CSS color palettes from a single hex color. |
+| 2 | [Box Shadows](https://manuarora.in/boxshadows) | Copy-paste beautiful CSS box shadow presets for modern UIs. |
+| 3 | [Hypercolor](https://hypercolor.dev/) | Curated collection of beautiful Tailwind CSS gradient presets. |
+| 4 | [Palettolithic](https://palettolithic.com/?color=00ff02) | AI-powered color palette generator for harmonious design schemes. |
+| 5 | [Buttons Generator](https://markodenic.com/tools/buttons-generator/?ref=producthunt) | Generate beautifully styled CSS buttons with live code preview. |
+| 6 | [DevDojo Buttons](https://devdojo.com/tailwindcss/buttons) | Collection of copy-paste Tailwind CSS button designs. |
+| 7 | [Tints.dev](https://www.tints.dev/blue/FDF343) | Generate complete color shade scales from any hex color. |
+| 8 | [Colpat](https://colpat.itsvg.in/tpg?col1=%23ff0000&col2=%23007bff&col3=%2300ff33&col4=%23ffee00&col5=%238000ff) | Tailwind CSS palette generator with multi-color input support. |
+| 9 | [Realtime Colors](https://www.realtimecolors.com/?colors=040316-fbfbfe-2f27ce-ff0000-443dff&fonts=Inter-Inter#toolbar) | Visualize color palettes on a real website layout in real time. |
+| 10 | [AngryTools Flexbox](https://angrytools.com/css-flex/) | Interactive CSS flexbox playground with visual layout building. |
+| 11 | [AngryTools Animations](https://angrytools.com/css/animation/) | Visual CSS animation builder with timeline and keyframe editing. |
+| 12 | [CSS Grid Generator (Netlify)](https://cssgrid-generator.netlify.app/) | Visual CSS grid layout generator with exportable code. |
+| 13 | [CSS Grid Generator](https://css-grid-generator.com/) | Interactive grid builder with column, row, and gap controls. |
+| 14 | [Layoutit Grid](https://grid.layoutit.com/) | Interactive CSS grid generator with visual drag-and-drop areas. |
+| 15 | [Brad Woods Layout](https://layout.bradwoods.io/customize) | Visual CSS layout generator with flexbox and grid support. |
+| 16 | [CSS Generator (Netlify)](https://css-generator.netlify.app/layout-flexbox-items/) | Flexbox item generator with alignment and sizing controls. |
+| 17 | [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator) | Generate glass-effect CSS with blur, transparency, and border settings. |
+| 18 | [Clippy](https://bennettfeely.com/clippy/) | Interactive CSS clip-path maker for creating custom shapes. |
+| 19 | [CSS Filter Generator](https://cssfiltergenerator.com/) | Visual CSS filter builder for blur, brightness, contrast, and more. |
+| 20 | [EnjoyCSS](https://enjoycss.com/) | Advanced CSS3 generator with visual editing and code export. |
+| 21 | [SimpleCSS](https://simplecss.eu/) | Minimal CSS generator for quick styling of basic HTML elements. |
+| 22 | [CSS Generators](https://css-generators.com/) | Collection of CSS generators for gradients, patterns, and effects. |
+| 23 | [CSS Generator.org](https://cssgenerator.org/) | All-in-one CSS code generator for shadows, borders, and transforms. |
+| 24 | [ZZZCode CSS AI](https://zzzcode.ai/css/code-generator) | AI-powered CSS code generator from natural language descriptions. |
+| 25 | [SheCodes Generators](https://generators.shecodes.io/) | CSS gradient, shadow, and color palette generators by SheCodes. |
+| 26 | [CSS Portal Animated Text](https://www.cssportal.com/css-animated-text-generator/) | Generate animated text effects with customizable CSS keyframes. |
+| 27 | [Animatopy](https://sarthology.github.io/Animatopy/) | Preview and copy CSS animations with a single click. |
+| 28 | [Animate.css](https://animate.style/) | The most popular CSS animation library with 80+ ready-to-use animations. |
+| 29 | [Animista](https://animista.net/play/basic/rotate) | On-demand CSS animation generator with real-time preview and tuning. |
+| 30 | [AppGuruz CSS Animations](https://www.theappguruz.com/tag-tools/web/CSSAnimations/) | Interactive CSS animation gallery with code snippets. |
+| 31 | [Animated CSS Backgrounds](https://wweb.dev/resources/animated-css-background-generator) | Generate animated CSS background patterns and effects. |
+| 32 | [HTML Cheatsheet — CSS](https://htmlcheatsheet.com/css/) | Interactive CSS cheat sheet with live code editing and preview. |
+| 33 | [SheCodes CSS Cheatsheet](https://cheatsheets.shecodes.io/css) | Beautifully designed CSS property reference and cheat sheet. |
+| 34 | [CSS Reference Animations](https://cssreference.io/animations/) | Visual CSS animation property reference with interactive examples. |
+| 35 | [Flexbox Cheatsheet](https://flexbox.malven.co/) | Visual flexbox reference with all properties and values illustrated. |
+| 36 | [CSS Units Guide](https://www.raresportan.com/css-units/) | Comprehensive guide to all CSS unit types with usage examples. |
+| 37 | [HTML Cleaner](https://html-cleaner.com/) | Clean and format messy HTML code for better readability. |
+| 38 | [HTML CSS Format Tool](https://www.html-code-generator.com/tools/css-format) | Online CSS formatter and beautifier with customizable output. |
+| 39 | [WebCode CSS Generator](https://webcode.tools/css-generator/box-resize) | CSS box-resize and various other CSS property generators. |
+| 40 | [BlobMaker](https://www.blobmaker.app/) | Generate organic, random SVG blob shapes for backgrounds and designs. |
+| 41 | [GetWaves](https://getwaves.io/) | Generate SVG wave shapes for section dividers and backgrounds. |
+| 42 | [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/#30.30.30.33--.) | Create complex organic shapes using CSS border-radius values. |
+| 43 | [Alwane](https://alwane.io/) | Extract colors, fonts, and CSS from any website with one click. |
+| 44 | [Color-Hex](https://www.color-hex.com/color/000000) | Color information, palettes, and conversion tool for any hex code. |
+
+---
+
+## ⚡ Vite, Webpack & Build Tool Ecosystem
+
+Build tools, bundler plugins, and development workflow enhancers.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [Vite Plugin Webfont DL (GitHub)](https://github.com/feat-agency/vite-plugin-webfont-dl) | Vite plugin to download and self-host Google Fonts automatically. |
+| 2 | [Awesome Vite (GitHub)](https://github.com/vitejs/awesome-vite) | Official curated list of Vite plugins, templates, and community resources. |
+| 3 | [Track Awesome Vite](https://www.trackawesomelist.com/vitejs/awesome-vite/readme/) | Track updates to the Awesome Vite list with daily change notifications. |
+| 4 | [Webpack Contrib (GitHub)](https://github.com/webpack-contrib) | Official Webpack community loaders and plugins repository. |
+
+---
+
+## 🏗️ Diagramming & Software Architecture Tools
+
+Visual diagramming, whiteboarding, and architecture design tools.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [Eraser.io](https://app.eraser.io/dashboard/getting-started) | AI-powered diagramming tool for architecture docs, ERDs, and flowcharts. |
+| 2 | [Excalidraw](https://excalidraw.com/) | Free, open-source whiteboard tool with hand-drawn style diagrams. |
+| 3 | [Draw.io](https://app.diagrams.net/?src=about) | The most popular free diagramming tool — flowcharts, UML, network diagrams, and more. |
+| 4 | [Visual Paradigm Online](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard) | Professional UML and BPMN diagramming with cloud collaboration. |
+| 5 | [Easy Drawing Art](https://easydrawingart.com/) | Step-by-step drawing tutorials and guides for artists of all levels. |
+| 6 | [Creately](https://app.creately.com/d/fAUbsIkzrf5/edit) | Visual collaboration tool with smart diagramming and real-time teamwork. |
+
+---
+
+## 🖌️ Icons, SVGs & Visual Assets
+
+Icon libraries, SVG resources, and visual design assets for developers and designers.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [Iconify](https://icon-sets.iconify.design/) | 200,000+ icons from 100+ icon sets searchable in one unified interface. |
+| 2 | [Simple Icons](https://simpleicons.org/) | 3,000+ SVG icons for popular brands with official brand colors. |
+| 3 | [SVG Repo](https://www.svgrepo.com/) | 500,000+ open-source SVG vectors searchable by keyword. |
+| 4 | [SVG Repo Collections](https://www.svgrepo.com/collections/) | Curated SVG icon collections organized by theme and style. |
+| 5 | [IcoMoon](https://icomoon.io/app/#/select) | Custom icon font generator — pick icons and export as fonts or SVGs. |
+| 6 | [Icon-Icons](https://icon-icons.com/) | Free icon search engine covering flat, material, and glyph styles. |
+| 7 | [Material UI Icons](https://materialui.co/unicode-characters) | Searchable Unicode character and Material icon reference. |
+| 8 | [Fontello](https://fontello.com/?ref=hackernoon.com) | Custom icon font builder — combine icons from multiple sets into one font. |
+| 9 | [LineIcons](https://lineicons.com/icons) | 8,400+ handcrafted line icons for web, mobile, and UI design. |
+| 10 | [SVG Porn](https://svgporn.com/#category=designers) | High-quality SVG logos of popular companies, tools, and frameworks. |
+| 11 | [Storyset](https://storyset.com/) | Free customizable illustrations that you can animate and download. |
+| 12 | [Logo.wine](https://www.logo.wine/Fashion) | Collection of brand logos in SVG and PNG format across industries. |
+| 13 | [Iconscout](https://iconscout.com/) | 8M+ icons, illustrations, and 3D assets with Figma and Sketch plugins. |
+| 14 | [Google Material Icons](https://fonts.google.com/icons) | Official Google Material Design icon library — free and open source. |
+| 15 | [Font Awesome](https://fontawesome.com/icons/categories) | The web's most popular icon library with 30,000+ icons. |
+| 16 | [Icons8](https://icons8.com/) | Free icons, illustrations, photos, and AI-generated images in one platform. |
+| 17 | [Flaticon.lol](https://flaticon.lol/) | Alternative Flaticon mirror for free icon downloads. |
+| 18 | [Flaticon](https://www.flaticon.com/) | The largest database of free icons — 16M+ vectors across all categories. |
+| 19 | [Emojipedia](https://emojipedia.org/) | Comprehensive emoji reference with cross-platform rendering previews. |
+| 20 | [React Icons](https://react-icons.github.io/react-icons/) | Include popular icon libraries as React components with tree-shaking. |
+| 21 | [SVG Backgrounds](https://www.svgbackgrounds.com/elements/) | Customizable SVG background patterns and decorative elements. |
+| 22 | [SVG Silhouettes](https://svgsilh.com/2196f3/) | Free SVG silhouette images for design and illustration projects. |
+| 23 | [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) | Convert desktop fonts to web-optimized @font-face formats. |
+| 24 | [Lucide Icons](https://lucide.dev/icons/) | Beautiful and consistent open-source icon set forked from Feather Icons. |
+| 25 | [Heroicons](https://heroicons.com/) | Beautiful hand-crafted SVG icons by the makers of Tailwind CSS. |
+| 26 | [Badgers](https://badgers.space/icons) | Customizable SVG badge generator for READMEs and documentation. |
+| 27 | [PNGEgg](https://www.pngegg.com/) | Free transparent PNG images for commercial and personal use. |
+| 28 | [IconDuck](https://iconduck.com/) | 270,000+ free open-source icons and illustrations. |
+| 29 | [PNGAAA](https://www.pngaaa.com/) | Free PNG image downloads with transparent backgrounds. |
+| 30 | [VectorMagic](https://vectormagic.com/) | Convert raster images to clean SVG/EPS vectors with AI precision. |
+| 31 | [FreeLogo Vectors](https://www.freelogovectors.net/) | Free vector logo downloads in SVG, AI, and EPS formats. |
+| 32 | [Pictogrammers](https://pictogrammers.com/) | Open-source icon library community behind Material Design Icons. |
+| 33 | [Tabler Icons](https://tabler.io/icons) | 5,500+ free, customizable SVG icons designed for web interfaces. |
+| 34 | [UXWing](https://uxwing.com/) | Free SVG icons with no attribution required — royalty-free for any use. |
+| 35 | [Expo Icons](https://icons.expo.fyi/Index) | Searchable icon explorer across all popular React Native icon families. |
+| 36 | [IconPacks](https://www.iconpacks.net/) | Free icon packs in SVG and PNG for designers and developers. |
+| 37 | [VeryIcon](https://www.veryicon.com/) | 500,000+ free icons in PNG and ICO formats across all categories. |
+| 38 | [Iconly](https://iconly.io/) | Premium icon library with consistent, modern design language. |
+| 39 | [BlendIcons](https://blendicons.com/) | Free customizable icons with color and size adjustments. |
+| 40 | [IconFinder](https://www.iconfinder.com/) | Marketplace and search engine for premium and free icons. |
+| 41 | [Remix Icon](https://remixicon.com/) | Open-source neutral-style icon system with 2,800+ icons. |
+| 42 | [Streamline](https://www.streamlinehq.com/) | World's largest icon library — 190,000+ icons, illustrations, and emojis. |
+| 43 | [Iconoir](https://iconoir.com/) | Free, open-source SVG icon library with a minimal aesthetic. |
+| 44 | [Unblast](https://unblast.com/) | Free design resources — mockups, fonts, templates, icons, and more. |
+| 45 | [Darkwing (Gumroad)](https://darkwing.gumroad.com/) | Premium design resources and icon packs available on Gumroad. |
+| 46 | [Icon Archive](https://www.iconarchive.com/) | 700,000+ free icons in various styles and themes. |
+| 47 | [DryIcons](https://dryicons.com/) | Free icon packs and graphics for web and mobile projects. |
+| 48 | [Reshot](https://www.reshot.com/) | Free SVG icons and illustrations — no attribution required. |
+| 49 | [Ikonate](https://ikonate.com/) | Fully customizable, accessible SVG icon set with clean aesthetics. |
+| 50 | [Feather Icons](https://feathericons.com/) | Simply beautiful open-source icons with consistent 24px design. |
+| 51 | [Ionicons](https://ionic.io/ionicons) | Premium open-source icon pack for Ionic Framework and web projects. |
+| 52 | [Tilda Free Icons](https://tilda.cc/free-icons/) | Beautiful free icon sets designed by the Tilda website builder team. |
+| 53 | [IconSVG](https://iconsvg.xyz/) | Quick customizable SVG icon generator with adjustable stroke width. |
+| 54 | [KindPNG](https://www.kindpng.com/free/pc/) | Free transparent PNG images and clipart for personal and commercial use. |
+| 55 | [PNGWing](https://www.pngwing.com/) | Massive collection of transparent PNG images for design projects. |
+
+---
+
+## 🏷️ Logo Resources & Brand Assets
+
+Logo downloads, brand identity tools, and logo creation platforms.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [UIDownload](https://www.uidownload.com/) | Free vector logos, icons, and UI resources for designers. |
+| 2 | [FreeVectors.net](https://www.freevectors.net/) | Free vector graphics and clipart for commercial and personal use. |
+| 3 | [GraphicsFamily Logos](https://graphicsfamily.com/downloads/category/logos/) | Professional logo templates and mockups for free download. |
+| 4 | [LogoDix](https://logodix.com/) | Search engine for brand logos in transparent PNG format. |
+| 5 | [Muzli Search](https://search.muz.li/) | Design inspiration search engine powered by Muzli by InVision. |
+| 6 | [VectorSeek](https://vectorseek.com/) | Free brand logo vectors in SVG, AI, EPS, and PDF formats. |
+| 7 | [GoDownloads Logos](https://godownloads.net/50-minimal-logo-templates-free-download/) | 50+ minimal logo templates available for free download. |
+| 8 | [LogoWik](https://logowik.com/) | Free vector brand logos in SVG and PNG format. |
+| 9 | [Free PSD Templates — Logos](https://free-psd-templates.com/category/logos-and-fonts/) | Free PSD logo and font templates for designers. |
+| 10 | [LogoEPS](https://logoeps.com/) | Free logo downloads in EPS, SVG, and AI vector formats. |
+| 11 | [SeekLogo](https://seeklogo.com/) | 400,000+ vector logos searchable by brand name and industry. |
+| 12 | [BrandLogos.net](https://brandlogos.net/) | Free brand logo downloads in SVG and PNG with brand guidelines. |
+| 13 | [BrandMark Logo Rank](https://brandmark.io/logo-rank/) | AI logo scoring tool — rate your logo design instantly. |
+| 14 | [BrandMark Color Wheel](https://brandmark.io/color-wheel/app/) | Interactive color wheel for creating harmonious brand color palettes. |
+| 15 | [DesignEvo](https://www.designevo.com/logo-maker/) | Free online logo maker with 10,000+ templates and customization tools. |
+| 16 | [World Vector Logo](https://worldvectorlogo.com/most-downloaded) | Download free vector logos of the world's most popular brands. |
+| 17 | [VectorStock Logos](https://www.vectorstock.com/free-vectors/logo-vectors) | Free vector logo downloads from VectorStock's marketplace. |
+| 18 | [FreePNGLogos](https://www.freepnglogos.com/) | Free PNG logo images with transparent backgrounds. |
+| 19 | [VectorStock](https://www.vectorstock.com/) | Royalty-free vector images and stock illustrations marketplace. |
+| 20 | [FreeVector.com](https://www.freevector.com/) | Free vector art, illustrations, and graphics for any project. |
+| 21 | [RenderForest Logo Maker](https://www.renderforest.com/website-logo-maker) | AI-powered logo maker with professional templates and branding tools. |
+| 22 | [ShareAE](https://shareae.com/) | Free After Effects templates, motion graphics, and video assets. |
+
+---
+
+## 🎨 Design Assets & Typography Resources
+
+Fonts, graphics, and creative assets for designers and developers.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [MonsterONE Fonts](https://monsterone.com/graphics/fonts/) | Premium font library with commercial licenses for design projects. |
+| 2 | [MasterBundles — Sport Font](https://masterbundles.com/yumnacreative/zupraxu-modern-sport-font/) | Modern sport-style display font for athletic and gaming designs. |
+| 3 | [DesignCap](https://www.designcap.com/report/) | Online graphic design tool for reports, posters, and social media. |
+| 4 | [Visme](https://dashboard.visme.co/v2/projects/own) | All-in-one visual content creator for presentations, infographics, and reports. |
+| 5 | [Tome](https://tome.app/report-9f8) | AI-powered presentation builder that generates polished slide decks. |
+| 6 | [MasterBundles — Futuristic Font](https://masterbundles.com/yumnacreative/xuneza-futuristic-font/) | Futuristic sci-fi display font for tech and gaming designs. |
+| 7 | [MasterBundles](https://masterbundles.com/) | Marketplace for premium fonts, templates, graphics, and design bundles. |
+| 8 | [Unblast Fonts](https://unblast.com/fonts/) | Curated collection of free high-quality fonts for designers. |
+| 9 | [FreeFontDL](https://freefontdl.com/free-fonts/) | Free font download library with thousands of typeface options. |
+| 10 | [iFonts](https://ifonts.xyz/) | Free font download site with categorized browsing and previews. |
+| 11 | [MyFonts](https://www.myfonts.com/) | The world's largest font marketplace with 130,000+ typefaces. |
+| 12 | [EverythingFonts — WOFF2 to TTF](https://everythingfonts.com/woff2-to-ttf) | Online font format converter between WOFF2, TTF, and other formats. |
+| 13 | [BeFonts](https://befonts.com/font-categories/display-font) | Free display fonts curated for headlines, logos, and branding. |
+| 14 | [FontBolt](https://www.fontbolt.com/) | Generate text styled as famous brand logos — Netflix, Disney, and more. |
+| 15 | [UpLabs](https://www.uplabs.com/) | Marketplace for UI kits, icons, templates, and design resources. |
+| 16 | [Font Bundles](https://fontbundles.net/) | Premium and free font bundles with commercial licensing. |
+| 17 | [DaFontFile](https://dafontfile.org/) | Free font downloads with preview and character map. |
+| 18 | [Adobe Fonts](https://fonts.adobe.com/fonts/vs/sxLpW0jt4Wlf9_MQC_jQ0w/upload) | Adobe's font service with thousands of typefaces included in Creative Cloud. |
+| 19 | [WhatFontIs](https://www.whatfontis.com/?s3) | AI font identifier — upload an image and find matching fonts instantly. |
+| 20 | [FontLot](https://fontlot.com/) | Free font archive with 70,000+ downloadable typefaces. |
+| 21 | [Gamma](https://gamma.app/) | AI presentation maker that turns text into beautiful slide decks. |
+| 22 | [SlidesGo](https://slidesgo.com/) | Free Google Slides and PowerPoint presentation templates. |
+| 23 | [SlideGrabber](https://www.slidegrabber.com/) | Download professional presentation templates for any business need. |
+
+---
+
+## 🖼️ Graphic Design Resources & Freebies
+
+Mockups, illustrations, UI kits, Figma templates, and design inspiration.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [The Hungry JPEG](https://thehungryjpeg.com/freebies) | Weekly free design bundles including fonts, graphics, and templates. |
+| 2 | [Freebies Bundles](https://www.freebiesbundles.com/) | Curated free design resource bundles for graphic designers. |
+| 3 | [GraphicLoot](https://graphicloot.com/downloads/tag/free-download/) | Free design resources — textures, mockups, icons, and templates. |
+| 4 | [Design Bundles](https://designbundles.net/free-design-resources) | Free SVG files, fonts, and graphics from the DesignBundles marketplace. |
+| 5 | [GraphicMama](https://graphicmama.com/blog/best-design-bundles/) | Curated list of the best design bundles with character illustrations. |
+| 6 | [Freebie Supply](https://freebiesupply.com/) | Free design resources organized by tool — Sketch, Figma, XD, and more. |
+| 7 | [Creative Market](https://creativemarket.com/) | Marketplace for fonts, graphics, templates, and themes from independent creators. |
+| 8 | [UI Design Daily](https://uidesigndaily.com/) | Daily free UI component designs for Figma, Sketch, and HTML. |
+| 9 | [GFXLoad](https://www.gfxload.com/) | Free graphic resources — PSD templates, vectors, and mockups. |
+| 10 | [FreePiker](https://freepiker.com/) | Free vector graphics, PSD templates, and design elements. |
+| 11 | [Free Figma Templates](https://www.freefigmatemplates.com/) | Curated free Figma UI kits, templates, and design systems. |
+| 12 | [UIHut](https://uihut.com/free-assets) | Free UI design assets including kits, illustrations, and icons. |
+| 13 | [Lapa Ninja Freebies](https://www.lapa.ninja/freebies/) | Curated free design resources and landing page inspiration. |
+| 14 | [UISpace](https://uispace.net/2434-instagram-post-template-for-podcasts-free-PSD) | Free PSD and Figma UI design resources and templates. |
+| 15 | [unDraw](https://undraw.co/illustrations) | Open-source illustrations that you can customize colors on the fly. |
+| 16 | [Figma Community](https://www.figma.com/community) | Free Figma files, plugins, and widgets shared by the design community. |
+| 17 | [UI8 Freebies](https://ui8.net/category/freebies?ref=bookmarks.design) | Free UI kits, wireframes, and design resources from UI8. |
+| 18 | [Bookmarks.design](https://www.bookmarks.design/) | The best resources for designers in one curated directory. |
+| 19 | [ByPeople](https://www.bypeople.com/) | Curated dev and design resources — code snippets, templates, and tools. |
+| 20 | [365 Web Resources](https://365webresources.com/) | Daily web design freebies — fonts, icons, templates, and more. |
+| 21 | [PikBest](https://pikbest.com/) | Graphic design templates, office docs, and multimedia resources. |
+| 22 | [StoryNest AI](https://storynest.ai/) | AI-powered story and content creation platform for narratives. |
+| 23 | [InVideo AI](https://ai.invideo.io/) | AI video generator — turn text prompts into publish-ready videos. |
+| 24 | [Mockups Design](https://mockups-design.com/) | Free, high-quality PSD mockups for branding and product presentations. |
+| 25 | [All Free Download](https://all-free-download.com/) | Free vectors, photos, PSD files, and icons for commercial use. |
+| 26 | [PaletteMaker](https://palettemaker.com/app) | Preview your color palette on real-world design mockups and templates. |
+| 27 | [CorelDraw Design](https://coreldrawdesign.com/) | Free CorelDraw templates and design files for banners, cards, and more. |
+| 28 | [Upscale Media](https://www.upscale.media/upload) | AI image upscaler that enhances resolution while preserving quality. |
+| 29 | [Galileo AI](https://www.usegalileo.ai/explore/features/web) | AI-generated UI designs — describe your interface and get Figma-ready output. |
+
+---
+
+## 🌐 Web Templates & Theme Marketplaces
+
+Website templates, WordPress themes, and nulled theme sources.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [CodeList](https://codelist.cc/en/) | Nulled scripts, templates, and PHP source code library. |
+| 2 | [Nulled Templates](https://www.nulledtemplates.com/) | Free nulled WordPress themes, plugins, and website templates. |
+| 3 | [NullPHPScript](https://nullphpscript.com/) | Nulled PHP scripts and web applications for developers. |
+| 4 | [Envato Elements](https://elements.envato.com/) | Unlimited downloads of templates, stock photos, and design assets (subscription). |
+| 5 | [ThemeLock](https://themelock.com/eng/) | Free nulled WordPress and HTML themes from ThemeForest. |
+| 6 | [TemplateMonster](https://www.templatemonster.com/products/isfree/template/marketplace-membership/one/) | Free website templates from TemplateMonster's marketplace. |
+| 7 | [ThemeFisher](https://themefisher.com/) | Premium-quality free and paid Hugo, Bootstrap, and Tailwind templates. |
+| 8 | [HTMLCodex](https://htmlcodex.com/) | Free HTML website templates and Bootstrap components. |
+| 9 | [WPLocker](https://www.wplocker.com/en/) | Free nulled WordPress themes and plugins from premium marketplaces. |
+| 10 | [Product Hunt](https://www.producthunt.com/) | Discover the latest tech products, tools, and launches daily. |
+| 11 | [ThemeWagon](https://themewagon.com/) | Free and premium HTML, Bootstrap, and React website templates. |
+| 12 | [MonsterONE Templates](https://monsterone.com/html-templates/) | HTML website templates with modern designs and responsive layouts. |
+| 13 | [W3Layouts](https://w3layouts.com/#) | Free Bootstrap and HTML5 website templates for all industries. |
+| 14 | [Dark.Design](https://www.dark.design/) | Curated showcase of beautifully designed dark-mode websites. |
+| 15 | [Framer Templates](https://www.framer.com/templates/categories/3d/) | Professional Framer website templates with 3D and animated designs. |
+| 16 | [FounderJar Templates](https://www.founderjar.com/website-templates/animated/) | Curated animated website template collection for founders and startups. |
+| 17 | [WrapPixel](https://www.wrappixel.com/templates/category/free-templates/) | Free Bootstrap and Angular admin dashboard templates. |
+| 18 | [AdminMart](https://adminmart.com/) | Free and premium admin dashboard templates for web applications. |
+| 19 | [Nicepage](https://nicepage.com/wordpress-themes) | Free WordPress themes with drag-and-drop page builder support. |
+| 20 | [WeaDown](https://weadown.com/wordpress-themes/themeforest/) | Free nulled ThemeForest WordPress themes and plugins. |
+| 21 | [Nulled.one](https://nulled.one/) | Nulled scripts, WordPress themes, and premium plugins. |
+| 22 | [CodeCanyon.click](https://codecanyon.click/) | Free downloads of CodeCanyon premium PHP scripts and plugins. |
+| 23 | [Shop Entheosweb](https://shop.entheosweb.com/) | Premium website templates and WordPress themes marketplace. |
+
+---
+
+## 🎵 Sound Effects, Stock Media & Video Assets
+
+Royalty-free music, sound effects, stock footage, and multimedia resources.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [Production Crate SFX](https://sfx.productioncrate.com/) | Free sound effects library with thousands of categorized audio clips. |
+| 2 | [Mazwai](https://mazwai.com/) | Free stock video footage from independent filmmakers — no attribution required. |
+| 3 | [Coverr](https://coverr.co/) | Free stock videos for websites, social media, and commercial projects. |
+| 4 | [AE Download](https://aedownload.com/) | Free After Effects project files, templates, and video presets. |
+| 5 | [Motion Array](https://motionarray.com/) | Unlimited downloads of video templates, stock footage, and motion graphics. |
+| 6 | [Wynk Music](https://wynk.in/music) | Free music streaming platform from Airtel with millions of tracks. |
+| 7 | [Uppbeat](https://uppbeat.io/) | Free music for creators — royalty-free tracks licensed for YouTube and social. |
+| 8 | [Dreamstime](https://www.dreamstime.com/) | Stock photo and video marketplace with free and premium content. |
+| 9 | [FADR Revoice](https://fadr.com/revoice) | AI-powered voice cloning and vocal transformation tool. |
+| 10 | [Artlist](https://artlist.io/) | Premium royalty-free music and SFX platform for video creators. |
+| 11 | [Media.io](https://www.media.io/) | Online video, audio, and image editing suite with AI-powered tools. |
+| 12 | [Picsart](https://picsart.com/) | All-in-one creative platform for photo editing, design, and video. |
+| 13 | [Pixlr](https://pixlr.com/x/#generator) | Free online photo editor with AI-powered tools and effects. |
+| 14 | [Mixkit](https://mixkit.co/) | Free stock video clips, music tracks, and sound effects for any project. |
+| 15 | [Pixabay Music](https://pixabay.com/music/search/genre/suspense/) | Royalty-free suspense and genre-specific music tracks for content creators. |
+| 16 | [OneHack Stock Resources](https://onehack.us/t/awesome-stock-photography-video-illustration-much-much-more-massive-collection-resources/218330) | Mega-thread compiling the best free stock photo and video resources. |
+
+---
+
+## ⬇️ Premium Asset Downloaders & Unlockers
+
+Tools to download premium assets from stock sites, Envato, and creative marketplaces.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [FuckDCMA](https://fuckdcma.com/) | Download premium assets from Shutterstock, Freepik, and other platforms. |
+| 2 | [HackTack — Envato](https://hacktack.us/d/30-download-any-envato-elements-for-free-2022-tutorial-method) | Guide and tools for downloading Envato Elements assets for free. |
+| 3 | [Gift4Designer](https://gift4designer.net/) | Free graphic design resources, PSD files, and premium asset downloads. |
+| 4 | [TaiMienPhi — Envato](https://taimienphi.vn/download-envato-elements-84904/taive) | Vietnamese platform for downloading Envato Elements resources. |
+| 5 | [Envato Elements Mirror](https://elements.444444.dynv6.net/) | Community-hosted Envato Elements download mirror. |
+| 6 | [Envato Isyyy](https://envato.isyyy.com/) | Alternative Envato Elements downloader with search functionality. |
+| 7 | [ImgPanda Envato](https://imgpanda.com/envato-downloader/) | Online Envato Elements and stock image downloader tool. |
+| 8 | [StepToDown](https://steptodown.com/) | Multi-platform stock image and social media content downloader. |
+| 9 | [Udemy Downloader](https://udemy-downloader.com/) | Download Udemy course videos for offline learning. |
+| 10 | [VIP Academic Tools](https://app.vipacademictools.com/member) | Premium academic tool access including Grammarly, Turnitin, and more. |
+| 11 | [Udemy-DL (GitHub)](https://github.com/r0oth3x49/udemy-dl) | Open-source Python script for downloading Udemy courses. |
+| 12 | [Shutterstock Downloader](https://shutt.hat-stock.xyz/) | Download Shutterstock images without watermarks. |
+| 13 | [Vecteezy Downloader](https://vecteezy-downloader.beatsnoop.com/) | Download Vecteezy premium vectors and photos for free. |
+| 14 | [LiveDownloading](https://www.livedownloading.com/) | Premium stock photo downloader supporting multiple platforms. |
+| 15 | [Envato Downloader](https://envato-downloader.com/envato-downloader) | Direct Envato Elements asset downloader with URL input. |
+| 16 | [FPDLL](https://fpdll.com/) | Free premium asset downloads from Freepik, Envato, and Shutterstock. |
+| 17 | [FreePicDownloader](https://freepicdownloader.com/) | Download premium Freepik images and vectors without a subscription. |
+| 18 | [SaveWeb2Zip](https://saveweb2zip.com/en) | Download entire websites as ZIP archives for offline browsing. |
+| 19 | [Extract.pics](https://extract.pics/) | Extract and download all images from any webpage with one click. |
+| 20 | [Freepik Downloader](https://codifyformatter.org/freepik-downloader) | Download Freepik premium vectors and photos without watermarks. |
+| 21 | [Alamy Downloader](https://steptodown.com/alamy-downloader/) | Download Alamy stock photos without watermarks. |
+| 22 | [Premium.Tools](https://premium.tools/tools/) | Collection of premium stock and asset downloaders in one platform. |
+| 23 | [Downloader.la — Shutterstock](https://new.downloader.la/shutterstock-downloader.php) | Shutterstock image downloader with high-resolution output. |
+| 24 | [QuickDLR](https://quickdlr.com/) | Multi-platform premium asset and stock image downloader. |
 
 ---
 
@@ -355,6 +797,13 @@ AI platforms for writing, chatting, content generation, and productivity.
 | 2 | [There's An AI For That](https://theresanaiforthat.com/) | The #1 AI tool directory — search 15,000+ AI tools for any use case. |
 | 3 | [Smodin AI Writer](https://smodin.io/writer) | AI-powered content writer and rewriter with multi-language support. |
 | 4 | [ChatERGoBot](https://chatergobot.com/en/chatbot-pricing) | Conversational AI chatbot platform with business-ready pricing tiers. |
+| 5 | [NoteGPT TTS](https://notegpt.io/text-to-speech) | AI text-to-speech tool with natural-sounding voices and multi-language support. |
+| 6 | [Jenni.ai](https://jenni.ai/) | AI writing assistant for academic papers, essays, and research documents. |
+| 7 | [HIX.ai](https://hix.ai/) | All-in-one AI writing copilot with 120+ tools for content creation. |
+| 8 | [AI Tools Arena](https://aitoolsarena.com/) | Curated directory of AI tools organized by category and use case. |
+| 9 | [Tools-AI.online](https://www.tools-ai.online/) | Collection of free AI-powered tools for text, image, and code generation. |
+| 10 | [TopAI.tools](https://topai.tools/) | Comprehensive AI tool directory with reviews and comparisons. |
+| 11 | [Toolify.ai](https://www.toolify.ai/) | AI tools directory with 15,000+ tools and daily new additions. |
 
 ---
 
@@ -406,6 +855,43 @@ Professional resume/CV builders, templates, and career optimization platforms.
 | 13 | [IBM Careers](https://careers.ibm.com/en_US/careers) | Official IBM job portal — search and apply for global tech positions. |
 | 14 | [Codveda Internships](https://codveda.com/internships/) | Curated tech internship listings for students and early-career devs. |
 | 15 | [TopperWorld Internships](https://topperworld.in/internship/) | Internship platform for Indian students with certification programs. |
+| 16 | [IBM Cloud Careers](https://www.ibm.com/careers/search?q=cloud%20developer) | Search IBM cloud developer and engineering job openings worldwide. |
+| 17 | [Amazon Jobs](https://www.amazon.jobs/en-gb/) | Amazon's official careers portal for global job opportunities. |
+| 18 | [Amazon Student Internships](https://amazon.jobs/content/en-gb/career-programs/university/internships-for-students) | Amazon internship programs specifically designed for university students. |
+| 19 | [AWS Internships](https://www.amazon.jobs/content/en/teams/amazon-web-services/internships?category%5B%5D=Operations%2C+IT%2C+%26+Support+Engineering#search) | AWS-specific internship positions in operations, IT, and engineering. |
+| 20 | [Alibaba Campus Careers](https://careers.aliyun.com/en/campus/position-list?campusType=freshman) | Alibaba Cloud freshman and campus recruitment portal. |
+| 21 | [Riipen](https://app.riipen.com/lrn/dashboard) | Experiential learning platform connecting students with real company projects. |
+
+---
+
+## 🎓 Scholarships & Global Opportunities
+
+Scholarship portals, fellowship directories, and educational opportunity platforms.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [Scholarships Corner](https://scholarshipscorner.website/) | Aggregator of international scholarships with deadline tracking. |
+| 2 | [ScholarshipsAds](https://www.scholarshipsads.com/) | Global scholarship directory covering bachelor's, master's, and PhD programs. |
+| 3 | [Scholars4Dev](https://www.scholars4dev.com/) | Curated scholarships for developing country students across all levels. |
+| 4 | [Opportunities Corners](https://opportunitiescorners.com/category/bachelor-master-phd-scholarships/) | Scholarships, fellowships, and funded programs across all academic levels. |
+| 5 | [Opportunities Circle](https://www.opportunitiescircle.com/explore-opportunities/) | Explore global scholarships, internships, competitions, and conferences. |
+
+---
+
+## ☁️ Cloud Computing & Certification Prep
+
+Cloud training platforms, certification study resources, and lab environments.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [ExamTopics](https://www.examtopics.com/) | Largest free IT certification exam prep site covering AWS, Azure, CompTIA, Google Cloud, and more. |
+| 2 | [AWS Educate](https://www.awseducate.com/student/s/content?category=%5B%22Cloud%20Computing%22%5D&level=%5B%22Foundational%22%5D) | Amazon's free cloud learning platform for students and educators. |
+| 3 | [AWS Skill Builder](https://skillbuilder.aws/learn) | Official AWS free digital training platform with 600+ courses and labs. |
+| 4 | [AWS SysOps Learning Plan](https://skillbuilder.aws/learning-plan/WMR6SCE8Q2/cloud-operator-sysops-learning-plan-includes-labs/RCTNFV3781) | Structured AWS learning plan for Cloud Operator/SysOps certification with labs. |
+| 5 | [Cisco Networking Academy](https://www.netacad.com/profile?&tab=badges) | Free IT and networking courses from Cisco with industry-recognized badges. |
+| 6 | [PIAIC](https://www.piaic.org/) | Presidential Initiative for AI & Computing — free Pakistani tech education program. |
+| 7 | [CloudTech International](https://www.cloudtech-int.com/free-training-internship-program.html#) | Free cloud computing training and internship programs. |
+| 8 | [AITech — AWS NAVTTC](https://aitech.edu.pk/cloud-computing-aws-navttc-summer-of-code-2025/) | Pakistani AWS cloud computing program through NAVTTC Summer of Code. |
 
 ---
 
@@ -421,12 +907,45 @@ eBooks, philosophical works, literary quotes, and digital library archives.
 | 4 | [BrainyQuote — Nietzsche](https://www.brainyquote.com/authors/friedrich-nietzsche-quotes) | Friedrich Nietzsche's most powerful quotes on life, truth, and power. |
 | 5 | [Kitab o Sunnat](https://kitabosunnat.com/) | Islamic books and scholarly texts library in Urdu and Arabic. |
 | 6 | [Anna's Archive](https://annas-archive.gl/search?q=) | The world's largest open-source library search engine — books, papers, and more. |
+| 7 | [Library Genesis (LibGen)](https://libgen.im/) | Massive free eBook and academic paper library — the shadow library of the internet. |
+| 8 | [LibGen.rs](https://libgen.rs/) | Mirror of Library Genesis with millions of books and scientific articles. |
+| 9 | [Scribd (VPDFS)](https://scribd.vpdfs.com/) | Free access portal to Scribd documents and books without subscription. |
+| 10 | [Springer Nature Covers](https://covers.springernature.com/search/CoverSearch.html) | Search and browse Springer Nature book covers and publication metadata. |
+| 11 | [Rekhta](https://www.rekhta.org/rubaai/tum-to-ai-mehrbaan-anuuthe-nikle-mir-taqi-mir-rubaai?lang=ur) | Largest Urdu poetry and literature library with ghazals, nazms, and rubaai. |
+| 12 | [Marfat](http://marfat.com/default.aspx) | Urdu Islamic literature and spiritual texts digital library. |
+
+---
+
+## 🗣️ Language Learning & Communication
+
+English fluency, pronunciation, writing improvement, and language practice tools.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [DeepEnglish](https://deepenglish.com/) | English fluency course using the Deep Learning method. |
+| 2 | [GetPronounce](https://app.getpronounce.com/) | AI pronunciation coach for improving English speaking skills. |
+| 3 | [TalkEnglish](https://www.talkenglish.com/) | Free English speaking lessons with audio for all proficiency levels. |
+| 4 | [Forvo](https://forvo.com/search/vegetable/en_usa/) | The pronunciation dictionary — hear words spoken by native speakers worldwide. |
+| 5 | [Write & Improve](https://writeandimprove.com/workbooks#/wi-workbooks) | Cambridge-powered writing tool that gives instant feedback on your English. |
+| 6 | [SmallTalk2.me](https://app.smalltalk2.me/) | AI English conversation practice with speech recognition and feedback. |
+| 7 | [Duolingo](https://www.duolingo.com/learn) | The world's most popular free language-learning app with gamified lessons. |
+| 8 | [Dictation.io](https://dictation.io/speech) | Free online speech-to-text tool powered by Google's speech recognition. |
+
+---
+
+## 📖 Islamic Studies & Spiritual Resources
+
+Quranic tafsir, Islamic texts, and spiritual learning platforms.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [English Tafsir](http://www.englishtafsir.com/) | Comprehensive English commentary and interpretation of the Holy Quran. |
 
 ---
 
 ## 🎓 Free Courses, eBooks & Study Notes
 
-Open courseware, free textbooks, CS study notes, and language learning.
+Open courseware, free textbooks, CS study notes, and academic resources.
 
 | # | Resource | Description |
 |---|----------|-------------|
@@ -440,10 +959,14 @@ Open courseware, free textbooks, CS study notes, and language learning.
 | 8 | [GoalKicker](https://goalkicker.com/) | Free programming notes compiled from Stack Overflow documentation. |
 | 9 | [PDFiles](https://www.pdfiles.net/) | Free PDF textbook and study material download portal. |
 | 10 | [FreeComputerBooks](https://freecomputerbooks.com/) | Directory of free computer science textbooks, lecture notes, and tutorials. |
-| 11 | [DeepEnglish](https://deepenglish.com/) | English fluency course using the Deep Learning method. |
-| 12 | [GetPronounce](https://app.getpronounce.com/) | AI pronunciation coach for improving English speaking skills. |
-| 13 | [CourseHeist](https://courseheist.live/) | Aggregator for finding free access to premium course content. |
-| 14 | [Kemono](https://kemono.cr/) | Public archive of creator content from Patreon, Fanbox, and more. |
+| 11 | [CourseHeist](https://courseheist.live/) | Aggregator for finding free access to premium course content. |
+| 12 | [Kemono](https://kemono.cr/) | Public archive of creator content from Patreon, Fanbox, and more. |
+| 13 | [StudyHouse Online](https://www.studyhouse.online/) | NUML past papers, study notes, and free academic resources for Pakistani students. |
+| 14 | [Homeworkify](https://homeworkify.st/mirror-1) | Free homework help and textbook solution unlocker — Chegg alternative. |
+| 15 | [WikiHow](https://www.wikihow.com/Main-Page) | The world's largest how-to guide with step-by-step instructions for everything. |
+| 16 | [Darebee](https://darebee.com/) | Free fitness programs, workout routines, and exercise challenges. |
+| 17 | [SuperCook](https://www.supercook.com/#/desktop) | Recipe generator that finds meals based on ingredients you already have. |
+| 18 | [Cymath](https://www.cymath.com/) | Free math problem solver with step-by-step explanations. |
 
 ---
 
@@ -469,23 +992,7 @@ Compress, resize, convert, and optimize images and media files.
 | 14 | [AConvert](https://www.aconvert.com/) | Universal file converter supporting images, documents, audio, and video. |
 | 15 | [JoPDF](https://www.jopdf.com/) | Free online PDF tools — merge, split, compress, and convert. |
 | 16 | [PDFEscape](https://www.pdfescape.com/) | Free online PDF editor — annotate, fill forms, and edit pages. |
-| 17 | [VectorMagic](https://vectormagic.com/) | Convert raster images to clean SVG/EPS vectors with AI precision. |
-
----
-
-## 🎨 Design Assets & Typography Resources
-
-Fonts, graphics, and creative assets for designers and developers.
-
-| # | Resource | Description |
-|---|----------|-------------|
-| 1 | [MonsterONE Fonts](https://monsterone.com/graphics/fonts/) | Premium font library with commercial licenses for design projects. |
-| 2 | [MasterBundles — Sport Font](https://masterbundles.com/yumnacreative/zupraxu-modern-sport-font/) | Modern sport-style display font for athletic and gaming designs. |
-| 3 | [KindPNG](https://www.kindpng.com/free/pc/) | Free transparent PNG images and clipart for personal and commercial use. |
-| 4 | [PNGWing](https://www.pngwing.com/) | Massive collection of transparent PNG images for design projects. |
-| 5 | [DesignCap](https://www.designcap.com/report/) | Online graphic design tool for reports, posters, and social media. |
-| 6 | [Visme](https://dashboard.visme.co/v2/projects/own) | All-in-one visual content creator for presentations, infographics, and reports. |
-| 7 | [Tome](https://tome.app/report-9f8) | AI-powered presentation builder that generates polished slide decks. |
+| 17 | [Picsart Profile Picture](https://tools.picsart.com/design/profile-picture/) | Create professional profile pictures and avatars with Picsart. |
 
 ---
 
@@ -522,6 +1029,13 @@ Software download portals, crack tools, and activation utilities.
 | 25 | [MAS — Microsoft Activation Scripts](https://massgrave.dev/) | Open-source Windows and Office activator supporting HWID, Ohook, and KMS. |
 | 26 | [Kraken](https://kraken.nswardh.com/) | Multi-purpose download and activation toolkit. |
 | 27 | [MEGA Archive](https://mega.nz/folder/4VFXBKpT#qEzhyi-DmXLLSXfQuAJuyg) | Cloud-hosted software and resource archive on MEGA. |
+| 28 | [Ask4PC](https://ask4pc.net/c/windows-os/) | Windows OS downloads and pre-activated software installation guides. |
+| 29 | [Anturis — Windows 11 ISO](https://anturis.com/download-windows-11-iso/) | Direct Windows 11 ISO download links with clean images. |
+| 30 | [SysCute — Windows 11 TPM Bypass](https://www.syscute.com/install-windows-11-without-tpm-secure-boot.html) | Guide to installing Windows 11 on unsupported hardware without TPM. |
+| 31 | [4HowCrack](https://4howcrack.com/) | Software cracks, patches, and serial key database. |
+| 32 | [CrackingDrift](https://www.crackingdrift.to/search/?q=netflix&quick=1) | Premium account cracking community with tools and tutorials. |
+| 33 | [PJSins](https://pjsins.com/) | Software cracks, premium tools, and digital resource downloads. |
+| 34 | [TheTechTide](https://www.thetechtide.org/) | Tech tutorials, software guides, and digital tool reviews. |
 
 ---
 
@@ -543,6 +1057,19 @@ VPNs, proxies, temporary emails, file sharing, and privacy tools.
 | 10 | [Poised](https://app.poised.com/download/) | AI communication coach that analyzes your speech in real-time meetings. |
 | 11 | [RealFastReports](https://realfastreports.com/) | Generate professional reports and documents from structured data. |
 | 12 | [LALAL.AI](https://www.lalal.ai/) | AI-powered vocal and instrumental track separator for any audio file. |
+| 13 | [SnapSave](https://snapsave.io/en53) | Download Facebook, Instagram, and TikTok videos in HD quality. |
+| 14 | [YouTube Thumbnail Downloader](https://www.youtubethumbnaildownloader.com/) | Download YouTube video thumbnails in all available resolutions. |
+
+---
+
+## 🧰 Multi-Purpose Online Toolkits
+
+Collections of multiple tools in one platform — converters, generators, and utilities.
+
+| # | Resource | Description |
+|---|----------|-------------|
+| 1 | [WebDevPuneet Tools](https://tools.webdevpuneet.com/) | Collection of web developer tools — formatters, converters, and generators. |
+| 2 | [MrFreeTools](https://mrfreetools.com/skills/) | Free online tools for LinkedIn skill assessments and professional development. |
 
 ---
 
