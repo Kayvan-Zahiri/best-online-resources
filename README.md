@@ -848,6 +848,7 @@ Professional resume/CV builders, templates, and career optimization platforms.
 | 6 | [NodeFlair Resume Checker](https://nodeflair.com/resume-checker) | AI resume analyzer that scores and suggests improvements. |
 | 7 | [Reactive Resume](https://rxresu.me/dashboard/resumes) | Open-source, privacy-first resume builder with real-time collaboration. |
 | 8 | [Rezi AI](https://app.rezi.ai/dashboard/resumes) | AI resume builder optimized for ATS compatibility scoring. |
+| 8b | [ResumeAI](https://withresumeai.com/) | Free ATS resume checker (3/day anon, 10/day free) + State of ATS 2026 (738 employers; Workday 37.9%). |
 | 9 | [My Resume Templates](https://www.my-resume-templates.com/) | Gallery of free, downloadable resume templates in Word and PDF. |
 | 10 | [Overleaf CV Templates](https://www.overleaf.com/latex/templates/tagged/cv) | Professional LaTeX CV templates for academic and technical roles. |
 | 11 | [DPHang CV Template (Overleaf)](https://www.overleaf.com/latex/templates/dphang-cv-template/wygbzfpbdhnj) | Clean, minimal LaTeX CV template popular in tech interviews. |
