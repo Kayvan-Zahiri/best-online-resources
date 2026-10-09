@@ -1,6 +1,6 @@
 # Best Online Resources 🚀
 
-A curated collection of the best online resources, including web tools, developer utilities, coding courses, career templates, gaming assets, torrent resources, and useful websites. Your all-in-one resource and bookmark toolkit. ⭐ Star to save for later!
+A curated collection of the best online resources, including web tools, developer utilities, coding courses, career templates, gaming assets, and useful websites. Your all-in-one resource and bookmark toolkit. ⭐ Star to save for later!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Last Commit](https://img.shields.io/github/last-commit/rajairfanahmed/best-online-resources)
@@ -12,12 +12,9 @@ A curated collection of the best online resources, including web tools, develope
 ## 📑 Table of Contents
 
 - [🎬 Free Streaming & Movie Platforms](#-free-streaming--movie-platforms)
-- [📥 Movie & Video Download Sites](#-movie--video-download-sites)
 - [📝 Subtitle & Caption Resources](#-subtitle--caption-resources)
-- [🎮 Game Downloads & Repacks](#-game-downloads--repacks)
 - [🕹️ Game Mods, Cheats & Trainers](#️-game-mods-cheats--trainers)
 - [🏆 Gaming Databases & Community Hubs](#-gaming-databases--community-hubs)
-- [💾 Torrent Search Engines & Indexers](#-torrent-search-engines--indexers)
 - [💻 Coding Courses & Learning Platforms](#-coding-courses--learning-platforms)
 - [🧑‍💻 Coding Practice, Projects & References](#-coding-practice-projects--references)
 - [🛠️ Developer Tools & Boilerplates](#️-developer-tools--boilerplates)
@@ -31,7 +28,6 @@ A curated collection of the best online resources, including web tools, develope
 - [🖼️ Graphic Design Resources & Freebies](#️-graphic-design-resources--freebies)
 - [🌐 Web Templates & Theme Marketplaces](#-web-templates--theme-marketplaces)
 - [🎵 Sound Effects, Stock Media & Video Assets](#-sound-effects-stock-media--video-assets)
-- [⬇️ Premium Asset Downloaders & Unlockers](#️-premium-asset-downloaders--unlockers)
 - [🤖 AI-Powered Tools & Assistants](#-ai-powered-tools--assistants)
 - [🔍 SEO, Keyword Research & Analytics](#-seo-keyword-research--analytics)
 - [✍️ Writing, Plagiarism & Content Tools](#️-writing-plagiarism--content-tools)
@@ -43,7 +39,7 @@ A curated collection of the best online resources, including web tools, develope
 - [📖 Islamic Studies & Spiritual Resources](#-islamic-studies--spiritual-resources)
 - [🎓 Free Courses, eBooks & Study Notes](#-free-courses-ebooks--study-notes)
 - [🖼️ Image Compression & Media Utilities](#️-image-compression--media-utilities)
-- [🔧 Software Downloads & Activation Tools](#-software-downloads--activation-tools)
+- [🔧 Software Downloads & System Guides](#-software-downloads--system-guides)
 - [🌐 Proxy, Privacy & Utility Services](#-proxy-privacy--utility-services)
 - [🧰 Multi-Purpose Online Toolkits](#-multi-purpose-online-toolkits)
 - [📢 Miscellaneous & Uncategorized Gems](#-miscellaneous--uncategorized-gems)
@@ -58,164 +54,21 @@ Stream movies, TV series, anime, and cartoons directly in your browser — no do
 
 | # | Resource | Description |
 |---|----------|-------------|
-| 1 | [Dulo.cx](https://dulo.cx/) | Clean, ad-light streaming portal for the latest movies and TV shows. |
-| 2 | [TBCPL](https://tbcpl.lol/) | Minimalist streaming site with a fast-loading interface for recent releases. |
-| 3 | [TodayTVSeries](https://www.todaytvseries1.com/tv-series/24-additional-tv-series/729-from-epix-tv-series) | Extensive TV series archive featuring EPIX originals and network shows. |
-| 4 | [Cineby](https://www.cineby.gd/) | Free streaming platform with a Netflix-style UI for movies and series. |
-| 5 | [HiMovies](https://himovies.sx/) | HD movie streaming with multiple server options and zero sign-up. |
-| 6 | [Uflix](https://uflix.cc/movies) | Streaming hub offering a vast library of Hollywood and international films. |
-| 7 | [MovieBox](https://moviebox.ph/) | Feature-rich streaming site with curated collections and trending sections. |
-| 8 | [TeraboxMovies](https://teraboxmovies.store/) | Cloud-hosted movie library with Terabox-based streaming links. |
-| 9 | [ZoeChip](https://zoechip.org/) | Ad-minimal streaming site with high-quality playback and subtitle support. |
-| 10 | [Yidio](https://www.yidio.com/channel/cartoon-network) | Aggregator that searches across 300+ streaming services to find where content is available. |
-| 11 | [KissCartoon](https://kisscartoon.sh/kisscartoon.html) | Dedicated cartoon streaming site covering classic and modern animated series. |
-| 12 | [WCOStream](https://www.wcostream.tv/) | Watch cartoons and anime online with dubbed and subbed options. |
-| 13 | [Hinoplex](https://hinoplex.com/dragon-ball-super-season-1-5-hindi-dubbed/) | Hindi-dubbed anime and international series streaming platform. |
-| 14 | [MLSBD](https://mlsbd.shop/) | Bangla-subtitle movie hub featuring Hollywood, Bollywood, and Korean films. |
-| 15 | [MovieKHHD](https://moviekhhd.biz/watch?id=4964) | HD movie streaming with multi-quality options and fast servers. |
-| 16 | [Fojik.site](https://fojik.site/) | Mirror streaming site offering alternate links when main portals go down. |
-| 17 | [Fojik.com](https://fojik.com/) | Primary streaming portal with a wide movie and TV series catalog. |
-| 18 | [WorthCrete](https://www.worthcrete.com/literature/seasons/hindi-dubbed-seasons/money-heist-online-hindi-dubbed/) | Hindi-dubbed seasons and movies including popular Netflix originals. |
-| 19 | [Movies2Watch](https://movies2watch.tv/) | Free movie and TV series streaming with minimal ads and HD quality. |
-| 20 | [Cineb](https://cineb.rs/) | Fast-loading movie platform with a sleek interface and subtitle integration. |
-| 21 | [StreamMovies](https://streammovies.to/) | Multi-server streaming site with an extensive genre-based catalog. |
-| 22 | [AndyDay](https://andyday.tv/movie) | Curated movie streaming with daily-updated new releases. |
-| 23 | [SolarMovie](https://solarmovieru.com/movies.html) | One of the longest-running free movie streaming sites with a massive library. |
-| 24 | [YoMovies](https://yomovies.house/) | Bollywood-focused streaming site with Hollywood and regional content. |
-| 25 | [123MovieFree](https://123moviefree.info/) | Classic 123Movies alternative with updated movie and series links. |
-| 26 | [Only-HD](https://www.only-hd.com/au/) | Premium-quality streaming focused exclusively on HD and 4K content. |
-| 27 | [DivXCrawler](https://divxcrawler.helpsarkari.com/choose-year.php) | Year-wise movie browser for downloading and streaming DivX-encoded films. |
-| 28 | [VegaMovies](https://vegamovies.td/) | Popular dual-audio movie site with Bollywood, Hollywood, and South Indian films. |
-| 29 | [PopcornTime Online](https://popcorntimeonline.xyz/) | Web-based Popcorn Time experience — stream torrents directly in the browser. |
-| 30 | [1377x](https://www.1377x.is/) | Torrent indexer doubling as a streaming discovery tool for movies and shows. |
-| 31 | [BFlix](https://bflix.io/home) | Ad-free streaming experience with a modern UI and fast CDN servers. |
-| 32 | [ShemarooMe](https://www.shemaroome.com/) | Official Indian OTT platform with classic Bollywood, devotional, and kids' content. |
-| 33 | [Tubi TV](https://tubitv.com/home) | Legitimate, ad-supported free streaming service with 50,000+ titles. |
-| 34 | [Movies123.pk](https://movies123.pk/) | Pakistani movie and drama streaming portal with regional content. |
-| 35 | [TheFlixer](https://theflixer.tv/movie) | Polished streaming site with advanced search filters and watchlist features. |
-| 36 | [HiMovies.to](https://www5.himovies.to/movie) | Alternate HiMovies mirror with additional server options. |
-| 37 | [Go21HD](https://go21hd.site/) | HD streaming portal focused on new theatrical releases. |
-| 38 | [HindiMovies.to](https://www.hindimovies.to/) | Dedicated platform for streaming Hindi movies in HD quality. |
-| 39 | [TheTodayPost](https://www.thetodaypost.com/) | Entertainment news and streaming links aggregator. |
-| 40 | [WatchSeries](https://watchseries.mx/home) | Comprehensive TV series streaming site with episode-level navigation. |
-| 41 | [Cloudy.pk](https://cloudy.com.pk/) | Pakistani entertainment hub for streaming dramas, movies, and shows. |
-| 42 | [AFilmyWap](https://www.afilmywap.co.im/) | Bollywood and Hollywood movie streaming with Hindi audio tracks. |
-| 43 | [WatchDBZ](https://watchdbz.xyz/) | Dragon Ball universe streaming — all series and movies in one place. |
-| 44 | [Anix](https://anix.to/home) | Modern anime streaming site with a clean UI and fast episode updates. |
-| 45 | [SFlix](https://sflix.se/home) | Feature-rich streaming platform with watchlist sync and subtitles. |
-| 46 | [0123Movie](https://ww13.0123movie.net/list/movies.html) | Classic movie streaming directory with alphabetical and genre browsing. |
-| 47 | [FMovies](https://www.fmovies.do/home) | Iconic free streaming brand with a deep catalog and multiple mirrors. |
-| 48 | [FMovies.co](https://ww4.fmovies.co/home/) | Alternate FMovies mirror with additional streaming servers. |
-| 49 | [SolarMovie.to](https://ww5.solarmovie.to/) | Long-standing SolarMovie mirror with trending and top-rated sections. |
-| 50 | [ToonTales](https://www.toontales.net/) | Cartoon and animated movie streaming site for kids and nostalgia lovers. |
-| 51 | [YesMovies](https://ww.yesmovies.ag/) | Well-known free streaming site with a large international movie library. |
-| 52 | [LookMovie](https://www.lookmovie2.to/movies/genre/horror) | Clean, ad-minimal streaming UI with genre-based browsing (horror, action, etc.). |
-| 53 | [Hungama](https://www.hungama.com/) | Official Indian entertainment portal for music, movies, and web series. |
-| 54 | [BFlix.gg](https://bflix.gg/movie) | BFlix mirror with enhanced server availability and HD playback. |
-| 55 | [FBox](https://fbox.to/home) | Modern streaming platform with bookmark features and HD content. |
-| 56 | [WatchMoviesHD](https://watchmovieshd.ru.com/) | Straightforward HD movie streaming with minimal interface clutter. |
-| 57 | [FilmyZilla](https://filmyzilla.olamovies.in/) | Massive Indian movie portal covering Bollywood, Tollywood, and Hollywood. |
-| 58 | [Movi.pk](https://www.movi.pk/) | Pakistani and Indian movie streaming with Urdu/Hindi language support. |
-| 59 | [IOSMirror](https://iosmirror.cc/verify) | Streaming mirror service providing alternate links for blocked sites. |
-| 60 | [UIIUMovie](https://uiiumovie.com/?s=&search=advanced&post_type=movie&index=&orderby=&genre=war&movieyear=&country=&quality=) | Advanced movie search engine with filters for genre, year, and quality. |
-| 61 | [7MovieRulz](https://www.7movierulz.so/) | Regional Indian movie streaming covering Telugu, Tamil, and Malayalam. |
-| 62 | [WDPGlobal](https://wdpglobal.com/movie) | Global movie streaming platform with multi-language support. |
-| 63 | [GoMovies.pk](https://gomovies.pk/) | Pakistani-focused GoMovies mirror with local and international content. |
-| 64 | [FZTVSeries](https://fztvseries.ng/) | Nigerian portal for downloading and streaming international TV series. |
-| 65 | [TamilYogi](https://tamiilyogi.com/) | Tamil movie streaming site with dubbed and original South Indian films. |
-| 66 | [ToonWorld4All](https://toonworld4all.me/) | Animated movies and cartoon series streaming hub. |
-| 67 | [CinemaFive12](https://cinemafive12.com/home) | Curated cinema streaming platform with a focus on quality over quantity. |
-| 68 | [FMovies-co.net](https://fmovies-co.net/home) | Yet another reliable FMovies mirror for uninterrupted streaming. |
-| 69 | [Downloads-AnyMovies](https://www.downloads-anymovies.co/) | Direct-download movie portal with organized category browsing. |
-| 70 | [FilmAlb](https://filmalb.net/en/movies) | Albanian and international movie streaming with English subtitles. |
-| 71 | [MangaTV](https://mangatv.shop/) | Manga and anime streaming portal with dubbed content libraries. |
-
----
-
-## 📥 Movie & Video Download Sites
-
-Direct-download portals for movies in various qualities and formats.
-
-| # | Resource | Description |
-|---|----------|-------------|
-| 1 | [USCFlix](https://uscflix.net/) | Free movie download portal with organized genre and year filters. |
-| 2 | [HDMovieHub](https://hdmoviehub.digital/) | Dual-audio movie downloads in 480p, 720p, and 1080p quality. |
-| 3 | [HDHub4U](https://new4.hdhub4u.fo/?utm=mn) | Popular movie download site with multi-quality encoding options. |
-| 4 | [VegaMovies LLC](https://vegamovies.llc/) | Mirror of VegaMovies with the latest Bollywood and Hollywood releases. |
-| 5 | [WatchSoMuch](https://watchsomuch.to/) | Hybrid streaming-and-download platform with subtitle integration. |
-| 6 | [A1Movies](https://a1movies.pro/) | Straightforward movie download portal with fast server links. |
-| 7 | [YTS](https://yts.bz/) | The go-to site for high-quality, small-size movie torrents with YIFY encodes. |
-| 8 | [Downloader2](https://downloader2.com/) | Multi-purpose download tool for grabbing media from various platforms. |
-| 9 | [Bolly4U](https://bolly4u.esq/) | Bollywood and Hollywood movie downloads with Hindi audio tracks. |
-| 10 | [OFilmyWap](https://www.ofilmywap.org.vc/) | Indian movie download site covering all regional film industries. |
-| 11 | [9JaRocks](https://9jarocks.net/) | Nigerian entertainment portal for Nollywood movie downloads. |
-| 12 | [ZinkMovies](https://new5.zinkmovies.vip/) | Fast movie download portal with resume-friendly download links. |
-| 13 | [AleFilmy](https://alefilmy.com/) | Polish and international movie download site with subtitles. |
-| 14 | [iWaatch](https://iwaatch.com/) | Movie discovery and download platform with curated recommendations. |
-| 15 | [CoolMoviez](https://www.coolmoviez.pg.in/) | Mobile-friendly movie download site optimized for low bandwidth. |
-| 16 | [AllMoviesHub](https://allmovieshub.contact/) | Comprehensive movie download hub with multi-quality options. |
-| 17 | [FilmyZilla Downloads](https://www.filmyzilla.com.af/category/202/Hollywood-english-movies/default/1.html) | Hollywood English movie downloads via the FilmyZilla network. |
-| 18 | [Bolly4U.wf](https://bolly4u.wf/) | Alternate Bolly4U mirror with additional server links. |
-| 19 | [DownloadHub](https://downloadhub.meme/) | Movie and web series download hub with fast Google Drive links. |
-| 20 | [BollyFlix](https://bollyflix.cash/) | Bollywood-first download platform with dual-audio support. |
-| 21 | [AllMoviesHub.fit](https://allmovieshub.fit/) | Mirror of AllMoviesHub with updated download links. |
-| 22 | [9xMovies](https://www.9xmovies.com.lv/) | Hindi movie download site with 300MB and 700MB compact encodes. |
-| 23 | [UHDMovies](https://uhdmovies.eu/) | Ultra-HD (4K, 1080p) movie downloads with HEVC encoding. |
-| 24 | [HDMP4Mania](https://hdmp4mania2.com/index.php) | MP4 movie downloads optimized for mobile playback. |
-| 25 | [2FilmyDhoom](https://www.2filmydhoom.com/) | Latest Bollywood and Punjabi movie downloads. |
-| 26 | [MP4VB](https://mp4vb.com/) | Video download portal with fast MP4 links. |
-| 27 | [5MovieRulz](https://www.5movierulz2.day/) | South Indian and Hollywood movie downloads with regional dubs. |
+| 1 | [Yidio](https://www.yidio.com/channel/cartoon-network) | Aggregator that searches across 300+ streaming services to find where content is available. |
+| 2 | [ShemarooMe](https://www.shemaroome.com/) | Official Indian OTT platform with classic Bollywood, devotional, and kids' content. |
+| 3 | [Tubi TV](https://tubitv.com/home) | Legitimate, ad-supported free streaming service with 50,000+ titles. |
+| 4 | [Hungama](https://www.hungama.com/) | Official Indian entertainment portal for music, movies, and web series. |
 
 ---
 
 ## 📝 Subtitle & Caption Resources
 
-Find and download subtitles in every language for any movie or show.
+Caption tools and movie media references.
 
 | # | Resource | Description |
 |---|----------|-------------|
-| 1 | [SRTFiles](https://www.srtfiles.com/) | Large SRT subtitle database searchable by movie title and year. |
-| 2 | [SubtitleCat](https://www.subtitlecat.com/) | Community-driven subtitle catalog covering 3,000+ languages. |
-| 3 | [SubDL](https://subdl.com/) | Modern subtitle download engine with auto-matching by file hash. |
-| 4 | [SubDL (Legacy)](https://old.subdl.com/) | Legacy SubDL interface with classic search and browse features. |
-| 5 | [YTS-Subs](https://yts-subs.com/) | Subtitles specifically matched to YTS movie releases. |
-| 6 | [SubF2M](https://subf2m.co/) | Subscene alternative with a fast subtitle search and download experience. |
-| 7 | [MoviePosterDB](https://www.movieposterdb.com/) | Movie poster database — great companion resource for media collections. |
-| 8 | [FreeSubtitles.ai](https://freesubtitles.ai/) | AI-powered subtitle generator that auto-creates captions for any video file. |
-
----
-
-## 🎮 Game Downloads & Repacks
-
-Download full PC games, repacks, and pre-installed titles.
-
-| # | Resource | Description |
-|---|----------|-------------|
-| 1 | [ElAmigos](https://elamigos.site/) | Pre-installed PC game releases — download, extract, and play instantly. |
-| 2 | [SteamRIP](https://steamrip.com/) | Pre-installed Steam games with no crack or setup needed. |
-| 3 | [GamesLeech](https://gamesleech.com/) | Direct-download game portal with fast servers and minimal ads. |
-| 4 | [NoSteam](https://www.nosteam.com.ro/index.php?topic=13.msg13#msg13) | Community forum for DRM-free game releases and discussions. |
-| 5 | [GameDrive](https://gamedrive.org/) | Google Drive-hosted game downloads with resume support. |
-| 6 | [Repack-Games](https://repack-games.com/) | Aggregator of repacked games from multiple repackers. |
-| 7 | [FitGirl Repacks](https://fitgirl-repacks.site/popular-repacks/) | The most trusted name in game repacks — heavily compressed, verified installs. |
-| 8 | [IGG-Games.cc](https://igg-games.cc/) | Large PC game download catalog with torrent and direct links. |
-| 9 | [IGG-Games.com](https://igg-games.com/) | Primary IGG Games portal with the latest releases. |
-| 10 | [IIGG-Games](https://iigg-games.net/) | IGG Games mirror with additional hosting servers. |
-| 11 | [ApunkaSoftware Games](https://www.apunkasoftware.net/vlink/0925001231) | Software and game download portal with clean download links. |
-| 12 | [FreeGamesDL](https://www.freegamesdl.net/) | Direct-download portal for full-version PC games. |
-| 13 | [MyGamerKing](https://mygamerking.com/) | Curated game downloads with detailed system requirements. |
-| 14 | [4FNet](https://www.4fnet.org/) | Community-powered game download and sharing forum. |
-| 15 | [OceansOfGames](https://oceansofgamess.com/) | Popular game download site with Google Drive and MEGA links. |
-| 16 | [IPCGames](https://ipcgames.com/call-of-duty-united-offensive-pc-game-free-download/) | PC game archive with direct download links and setup info. |
-| 17 | [FullProgramlarIndir](https://www.fullprogramlarindir.net/) | Turkish game and software download portal. |
-| 18 | [KaosKrew](https://kaoskrew.org/home) | Scene release tracker for PC game ISO and repack downloads. |
-| 19 | [RexaGames](https://rexagames.com/) | Game download portal with categorized releases and fast hosting. |
-| 20 | [AnkerGames](https://ankergames.net/) | Lightweight game download site with resume-friendly links. |
-| 21 | [DODI Repacks](https://dodi-repacks.site/) | Trusted game repackager offering highly compressed, tested installs. |
-| 22 | [DODI Repacks (Mirror)](https://dodi-repacks.download/) | Alternate DODI Repacks domain for redundancy. |
-| 23 | [Game-Repack](https://game-repack.site/) | Curated repack collection from multiple verified sources. |
-| 24 | [RaidOfGame](https://raidofgame.com/) | Game download hub with latest AAA and indie titles. |
-| 25 | [Par30Games](https://par30games.net/48829/download-the-walking-dead-the-telltale-definitive-series-game-for-pc/) | Persian game download site with international titles. |
+| 1 | [MoviePosterDB](https://www.movieposterdb.com/) | Movie poster database — great companion resource for media collections. |
+| 2 | [FreeSubtitles.ai](https://freesubtitles.ai/) | AI-powered subtitle generator that auto-creates captions for any video file. |
 
 ---
 
@@ -248,7 +101,7 @@ Cheat tables, trainers, game mods, and modding community hubs.
 
 ## 🏆 Gaming Databases & Community Hubs
 
-Game reviews, benchmarks, wikis, soundtracks, and community resources.
+Game reviews, benchmarks, wikis, and community resources.
 
 | # | Resource | Description |
 |---|----------|-------------|
@@ -260,41 +113,14 @@ Game reviews, benchmarks, wikis, soundtracks, and community resources.
 | 6 | [Fandom](https://www.fandom.com/) | The world's largest entertainment wiki platform covering games, movies, and TV. |
 | 7 | [SteamGridDB](https://www.steamgriddb.com/) | Custom game cover art, logos, and hero images for Steam and game launchers. |
 | 8 | [AltarOfGaming](https://altarofgaming.com/) | Gaming news, guides, and reviews with a focus on MMO and RPG titles. |
-| 9 | [KHInsider Soundtracks](https://downloads.khinsider.com/) | Video game soundtracks available for free streaming and download. |
-| 10 | [WCCFTech Gaming](https://wccftech.com/topic/games/) | Tech and gaming news covering hardware, releases, and industry trends. |
-| 11 | [SpeedRun.com](https://www.speedrun.com/) | Official speedrunning leaderboard and community for thousands of games. |
-| 12 | [GameSpot](https://www.gamespot.com/) | Premier gaming publication with reviews, news, and video content. |
-| 13 | [AnyGame](https://anygame.net/en/?id=395286400000) | Game discovery platform for finding new titles and tracking collections. |
-| 14 | [King-Clan](https://king-clan.com/) | Gaming clan community with guides and multiplayer resources. |
-| 15 | [Epic Games Store](https://store.epicgames.com/en-US/) | Official Epic Games storefront with weekly free game giveaways. |
-| 16 | [Ubisoft Store](https://www.ubisoft.com/en-us/) | Official Ubisoft game store for Assassin's Creed, Far Cry, and more. |
-| 17 | [G2A](https://www.g2a.com/) | Digital game key marketplace with discounted prices. |
-
----
-
-## 💾 Torrent Search Engines & Indexers
-
-Meta-search engines and dedicated torrent indexers for finding any content.
-
-| # | Resource | Description |
-|---|----------|-------------|
-| 1 | [Torrentz2](https://www.torrentz.eu.com/#gsc.tab=0) | Meta-search engine that aggregates results from dozens of torrent sites. |
-| 2 | [TorrentGalaxy](https://torrentgalaxy.to/) | Torrent indexer with IMDB integration, screenshots, and community comments. |
-| 3 | [KickassTorrents](https://kickasstorrents.site/) | Revival of the legendary KAT torrent site with verified uploads. |
-| 4 | [The Pirate Bay](https://thepiratebays.com/) | The world's most iconic torrent tracker — a cultural institution. |
-| 5 | [1337x](https://www.1337xx.to/) | Beautifully designed torrent indexer with curated categories and verified uploaders. |
-| 6 | [TorrentSeeker](https://torrentseeker.com/) | Google-powered torrent meta-search engine for clean, fast results. |
-| 7 | [AIO Search](http://www.aiosearch.com/) | All-in-one torrent and file search engine across multiple hosting platforms. |
-| 8 | [AudioBook Bay](https://theaudiobookbay.se/) | Dedicated torrent indexer for audiobooks across every genre. |
-| 9 | [TorLock](https://www.torlock.com/) | Torrent indexer that guarantees only verified torrents — pays $1 per fake. |
-| 10 | [TorrentFunk](https://www.torrentfunk.com/) | Torrent search with verified status indicators and health metrics. |
-| 11 | [iDope](https://idope.se/) | Privacy-focused torrent search engine with a clean, minimal interface. |
-| 12 | [AngieTorrents](https://angietorrents.cc/) | Curated torrent portal with quality-verified uploads. |
-| 13 | [TorrentVilla](https://torrentvilla.com/) | Torrent search app and web portal combining multiple indexer results. |
-| 14 | [GLODLS](https://glodls.to/home.php) | General-purpose torrent site with a loyal uploader community. |
-| 15 | [RuTor](https://rutor.info/) | Russian torrent tracker with international content and active community. |
-| 16 | [TorrentDownloads](https://www.torrentdownloads.pro/) | Classic torrent indexer with millions of indexed files. |
-| 17 | [TorrentDownload.info](https://www.torrentdownload.info/) | Torrent meta-search with magnet links and torrent health indicators. |
+| 9 | [WCCFTech Gaming](https://wccftech.com/topic/games/) | Tech and gaming news covering hardware, releases, and industry trends. |
+| 10 | [SpeedRun.com](https://www.speedrun.com/) | Official speedrunning leaderboard and community for thousands of games. |
+| 11 | [GameSpot](https://www.gamespot.com/) | Premier gaming publication with reviews, news, and video content. |
+| 12 | [AnyGame](https://anygame.net/en/?id=395286400000) | Game discovery platform for finding new titles and tracking collections. |
+| 13 | [King-Clan](https://king-clan.com/) | Gaming clan community with guides and multiplayer resources. |
+| 14 | [Epic Games Store](https://store.epicgames.com/en-US/) | Official Epic Games storefront with weekly free game giveaways. |
+| 15 | [Ubisoft Store](https://www.ubisoft.com/en-us/) | Official Ubisoft game store for Assassin's Creed, Far Cry, and more. |
+| 16 | [G2A](https://www.g2a.com/) | Digital game key marketplace with discounted prices. |
 
 ---
 
@@ -554,45 +380,44 @@ Icon libraries, SVG resources, and visual design assets for developers and desig
 | 14 | [Google Material Icons](https://fonts.google.com/icons) | Official Google Material Design icon library — free and open source. |
 | 15 | [Font Awesome](https://fontawesome.com/icons/categories) | The web's most popular icon library with 30,000+ icons. |
 | 16 | [Icons8](https://icons8.com/) | Free icons, illustrations, photos, and AI-generated images in one platform. |
-| 17 | [Flaticon.lol](https://flaticon.lol/) | Alternative Flaticon mirror for free icon downloads. |
-| 18 | [Flaticon](https://www.flaticon.com/) | The largest database of free icons — 16M+ vectors across all categories. |
-| 19 | [Emojipedia](https://emojipedia.org/) | Comprehensive emoji reference with cross-platform rendering previews. |
-| 20 | [React Icons](https://react-icons.github.io/react-icons/) | Include popular icon libraries as React components with tree-shaking. |
-| 21 | [SVG Backgrounds](https://www.svgbackgrounds.com/elements/) | Customizable SVG background patterns and decorative elements. |
-| 22 | [SVG Silhouettes](https://svgsilh.com/2196f3/) | Free SVG silhouette images for design and illustration projects. |
-| 23 | [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) | Convert desktop fonts to web-optimized @font-face formats. |
-| 24 | [Lucide Icons](https://lucide.dev/icons/) | Beautiful and consistent open-source icon set forked from Feather Icons. |
-| 25 | [Heroicons](https://heroicons.com/) | Beautiful hand-crafted SVG icons by the makers of Tailwind CSS. |
-| 26 | [Badgers](https://badgers.space/icons) | Customizable SVG badge generator for READMEs and documentation. |
-| 27 | [PNGEgg](https://www.pngegg.com/) | Free transparent PNG images for commercial and personal use. |
-| 28 | [IconDuck](https://iconduck.com/) | 270,000+ free open-source icons and illustrations. |
-| 29 | [PNGAAA](https://www.pngaaa.com/) | Free PNG image downloads with transparent backgrounds. |
-| 30 | [VectorMagic](https://vectormagic.com/) | Convert raster images to clean SVG/EPS vectors with AI precision. |
-| 31 | [FreeLogo Vectors](https://www.freelogovectors.net/) | Free vector logo downloads in SVG, AI, and EPS formats. |
-| 32 | [Pictogrammers](https://pictogrammers.com/) | Open-source icon library community behind Material Design Icons. |
-| 33 | [Tabler Icons](https://tabler.io/icons) | 5,500+ free, customizable SVG icons designed for web interfaces. |
-| 34 | [UXWing](https://uxwing.com/) | Free SVG icons with no attribution required — royalty-free for any use. |
-| 35 | [Expo Icons](https://icons.expo.fyi/Index) | Searchable icon explorer across all popular React Native icon families. |
-| 36 | [IconPacks](https://www.iconpacks.net/) | Free icon packs in SVG and PNG for designers and developers. |
-| 37 | [VeryIcon](https://www.veryicon.com/) | 500,000+ free icons in PNG and ICO formats across all categories. |
-| 38 | [Iconly](https://iconly.io/) | Premium icon library with consistent, modern design language. |
-| 39 | [BlendIcons](https://blendicons.com/) | Free customizable icons with color and size adjustments. |
-| 40 | [IconFinder](https://www.iconfinder.com/) | Marketplace and search engine for premium and free icons. |
-| 41 | [Remix Icon](https://remixicon.com/) | Open-source neutral-style icon system with 2,800+ icons. |
-| 42 | [Streamline](https://www.streamlinehq.com/) | World's largest icon library — 190,000+ icons, illustrations, and emojis. |
-| 43 | [Iconoir](https://iconoir.com/) | Free, open-source SVG icon library with a minimal aesthetic. |
-| 44 | [Unblast](https://unblast.com/) | Free design resources — mockups, fonts, templates, icons, and more. |
-| 45 | [Darkwing (Gumroad)](https://darkwing.gumroad.com/) | Premium design resources and icon packs available on Gumroad. |
-| 46 | [Icon Archive](https://www.iconarchive.com/) | 700,000+ free icons in various styles and themes. |
-| 47 | [DryIcons](https://dryicons.com/) | Free icon packs and graphics for web and mobile projects. |
-| 48 | [Reshot](https://www.reshot.com/) | Free SVG icons and illustrations — no attribution required. |
-| 49 | [Ikonate](https://ikonate.com/) | Fully customizable, accessible SVG icon set with clean aesthetics. |
-| 50 | [Feather Icons](https://feathericons.com/) | Simply beautiful open-source icons with consistent 24px design. |
-| 51 | [Ionicons](https://ionic.io/ionicons) | Premium open-source icon pack for Ionic Framework and web projects. |
-| 52 | [Tilda Free Icons](https://tilda.cc/free-icons/) | Beautiful free icon sets designed by the Tilda website builder team. |
-| 53 | [IconSVG](https://iconsvg.xyz/) | Quick customizable SVG icon generator with adjustable stroke width. |
-| 54 | [KindPNG](https://www.kindpng.com/free/pc/) | Free transparent PNG images and clipart for personal and commercial use. |
-| 55 | [PNGWing](https://www.pngwing.com/) | Massive collection of transparent PNG images for design projects. |
+| 17 | [Flaticon](https://www.flaticon.com/) | The largest database of free icons — 16M+ vectors across all categories. |
+| 18 | [Emojipedia](https://emojipedia.org/) | Comprehensive emoji reference with cross-platform rendering previews. |
+| 19 | [React Icons](https://react-icons.github.io/react-icons/) | Include popular icon libraries as React components with tree-shaking. |
+| 20 | [SVG Backgrounds](https://www.svgbackgrounds.com/elements/) | Customizable SVG background patterns and decorative elements. |
+| 21 | [SVG Silhouettes](https://svgsilh.com/2196f3/) | Free SVG silhouette images for design and illustration projects. |
+| 22 | [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) | Convert desktop fonts to web-optimized @font-face formats. |
+| 23 | [Lucide Icons](https://lucide.dev/icons/) | Beautiful and consistent open-source icon set forked from Feather Icons. |
+| 24 | [Heroicons](https://heroicons.com/) | Beautiful hand-crafted SVG icons by the makers of Tailwind CSS. |
+| 25 | [Badgers](https://badgers.space/icons) | Customizable SVG badge generator for READMEs and documentation. |
+| 26 | [PNGEgg](https://www.pngegg.com/) | Free transparent PNG images for commercial and personal use. |
+| 27 | [IconDuck](https://iconduck.com/) | 270,000+ free open-source icons and illustrations. |
+| 28 | [PNGAAA](https://www.pngaaa.com/) | Free PNG image downloads with transparent backgrounds. |
+| 29 | [VectorMagic](https://vectormagic.com/) | Convert raster images to clean SVG/EPS vectors with AI precision. |
+| 30 | [FreeLogo Vectors](https://www.freelogovectors.net/) | Free vector logo downloads in SVG, AI, and EPS formats. |
+| 31 | [Pictogrammers](https://pictogrammers.com/) | Open-source icon library community behind Material Design Icons. |
+| 32 | [Tabler Icons](https://tabler.io/icons) | 5,500+ free, customizable SVG icons designed for web interfaces. |
+| 33 | [UXWing](https://uxwing.com/) | Free SVG icons with no attribution required — royalty-free for any use. |
+| 34 | [Expo Icons](https://icons.expo.fyi/Index) | Searchable icon explorer across all popular React Native icon families. |
+| 35 | [IconPacks](https://www.iconpacks.net/) | Free icon packs in SVG and PNG for designers and developers. |
+| 36 | [VeryIcon](https://www.veryicon.com/) | 500,000+ free icons in PNG and ICO formats across all categories. |
+| 37 | [Iconly](https://iconly.io/) | Premium icon library with consistent, modern design language. |
+| 38 | [BlendIcons](https://blendicons.com/) | Free customizable icons with color and size adjustments. |
+| 39 | [IconFinder](https://www.iconfinder.com/) | Marketplace and search engine for premium and free icons. |
+| 40 | [Remix Icon](https://remixicon.com/) | Open-source neutral-style icon system with 2,800+ icons. |
+| 41 | [Streamline](https://www.streamlinehq.com/) | World's largest icon library — 190,000+ icons, illustrations, and emojis. |
+| 42 | [Iconoir](https://iconoir.com/) | Free, open-source SVG icon library with a minimal aesthetic. |
+| 43 | [Unblast](https://unblast.com/) | Free design resources — mockups, fonts, templates, icons, and more. |
+| 44 | [Darkwing (Gumroad)](https://darkwing.gumroad.com/) | Premium design resources and icon packs available on Gumroad. |
+| 45 | [Icon Archive](https://www.iconarchive.com/) | 700,000+ free icons in various styles and themes. |
+| 46 | [DryIcons](https://dryicons.com/) | Free icon packs and graphics for web and mobile projects. |
+| 47 | [Reshot](https://www.reshot.com/) | Free SVG icons and illustrations — no attribution required. |
+| 48 | [Ikonate](https://ikonate.com/) | Fully customizable, accessible SVG icon set with clean aesthetics. |
+| 49 | [Feather Icons](https://feathericons.com/) | Simply beautiful open-source icons with consistent 24px design. |
+| 50 | [Ionicons](https://ionic.io/ionicons) | Premium open-source icon pack for Ionic Framework and web projects. |
+| 51 | [Tilda Free Icons](https://tilda.cc/free-icons/) | Beautiful free icon sets designed by the Tilda website builder team. |
+| 52 | [IconSVG](https://iconsvg.xyz/) | Quick customizable SVG icon generator with adjustable stroke width. |
+| 53 | [KindPNG](https://www.kindpng.com/free/pc/) | Free transparent PNG images and clipart for personal and commercial use. |
+| 54 | [PNGWing](https://www.pngwing.com/) | Massive collection of transparent PNG images for design projects. |
 
 ---
 
@@ -623,7 +448,6 @@ Logo downloads, brand identity tools, and logo creation platforms.
 | 19 | [VectorStock](https://www.vectorstock.com/) | Royalty-free vector images and stock illustrations marketplace. |
 | 20 | [FreeVector.com](https://www.freevector.com/) | Free vector art, illustrations, and graphics for any project. |
 | 21 | [RenderForest Logo Maker](https://www.renderforest.com/website-logo-maker) | AI-powered logo maker with professional templates and branding tools. |
-| 22 | [ShareAE](https://shareae.com/) | Free After Effects templates, motion graphics, and video assets. |
 
 ---
 
@@ -699,33 +523,25 @@ Mockups, illustrations, UI kits, Figma templates, and design inspiration.
 
 ## 🌐 Web Templates & Theme Marketplaces
 
-Website templates, WordPress themes, and nulled theme sources.
+Website templates, WordPress themes, and theme marketplaces.
 
 | # | Resource | Description |
 |---|----------|-------------|
-| 1 | [CodeList](https://codelist.cc/en/) | Nulled scripts, templates, and PHP source code library. |
-| 2 | [Nulled Templates](https://www.nulledtemplates.com/) | Free nulled WordPress themes, plugins, and website templates. |
-| 3 | [NullPHPScript](https://nullphpscript.com/) | Nulled PHP scripts and web applications for developers. |
-| 4 | [Envato Elements](https://elements.envato.com/) | Unlimited downloads of templates, stock photos, and design assets (subscription). |
-| 5 | [ThemeLock](https://themelock.com/eng/) | Free nulled WordPress and HTML themes from ThemeForest. |
-| 6 | [TemplateMonster](https://www.templatemonster.com/products/isfree/template/marketplace-membership/one/) | Free website templates from TemplateMonster's marketplace. |
-| 7 | [ThemeFisher](https://themefisher.com/) | Premium-quality free and paid Hugo, Bootstrap, and Tailwind templates. |
-| 8 | [HTMLCodex](https://htmlcodex.com/) | Free HTML website templates and Bootstrap components. |
-| 9 | [WPLocker](https://www.wplocker.com/en/) | Free nulled WordPress themes and plugins from premium marketplaces. |
-| 10 | [Product Hunt](https://www.producthunt.com/) | Discover the latest tech products, tools, and launches daily. |
-| 11 | [ThemeWagon](https://themewagon.com/) | Free and premium HTML, Bootstrap, and React website templates. |
-| 12 | [MonsterONE Templates](https://monsterone.com/html-templates/) | HTML website templates with modern designs and responsive layouts. |
-| 13 | [W3Layouts](https://w3layouts.com/#) | Free Bootstrap and HTML5 website templates for all industries. |
-| 14 | [Dark.Design](https://www.dark.design/) | Curated showcase of beautifully designed dark-mode websites. |
-| 15 | [Framer Templates](https://www.framer.com/templates/categories/3d/) | Professional Framer website templates with 3D and animated designs. |
-| 16 | [FounderJar Templates](https://www.founderjar.com/website-templates/animated/) | Curated animated website template collection for founders and startups. |
-| 17 | [WrapPixel](https://www.wrappixel.com/templates/category/free-templates/) | Free Bootstrap and Angular admin dashboard templates. |
-| 18 | [AdminMart](https://adminmart.com/) | Free and premium admin dashboard templates for web applications. |
-| 19 | [Nicepage](https://nicepage.com/wordpress-themes) | Free WordPress themes with drag-and-drop page builder support. |
-| 20 | [WeaDown](https://weadown.com/wordpress-themes/themeforest/) | Free nulled ThemeForest WordPress themes and plugins. |
-| 21 | [Nulled.one](https://nulled.one/) | Nulled scripts, WordPress themes, and premium plugins. |
-| 22 | [CodeCanyon.click](https://codecanyon.click/) | Free downloads of CodeCanyon premium PHP scripts and plugins. |
-| 23 | [Shop Entheosweb](https://shop.entheosweb.com/) | Premium website templates and WordPress themes marketplace. |
+| 1 | [Envato Elements](https://elements.envato.com/) | Unlimited downloads of templates, stock photos, and design assets (subscription). |
+| 2 | [TemplateMonster](https://www.templatemonster.com/products/isfree/template/marketplace-membership/one/) | Free website templates from TemplateMonster's marketplace. |
+| 3 | [ThemeFisher](https://themefisher.com/) | Premium-quality free and paid Hugo, Bootstrap, and Tailwind templates. |
+| 4 | [HTMLCodex](https://htmlcodex.com/) | Free HTML website templates and Bootstrap components. |
+| 5 | [Product Hunt](https://www.producthunt.com/) | Discover the latest tech products, tools, and launches daily. |
+| 6 | [ThemeWagon](https://themewagon.com/) | Free and premium HTML, Bootstrap, and React website templates. |
+| 7 | [MonsterONE Templates](https://monsterone.com/html-templates/) | HTML website templates with modern designs and responsive layouts. |
+| 8 | [W3Layouts](https://w3layouts.com/#) | Free Bootstrap and HTML5 website templates for all industries. |
+| 9 | [Dark.Design](https://www.dark.design/) | Curated showcase of beautifully designed dark-mode websites. |
+| 10 | [Framer Templates](https://www.framer.com/templates/categories/3d/) | Professional Framer website templates with 3D and animated designs. |
+| 11 | [FounderJar Templates](https://www.founderjar.com/website-templates/animated/) | Curated animated website template collection for founders and startups. |
+| 12 | [WrapPixel](https://www.wrappixel.com/templates/category/free-templates/) | Free Bootstrap and Angular admin dashboard templates. |
+| 13 | [AdminMart](https://adminmart.com/) | Free and premium admin dashboard templates for web applications. |
+| 14 | [Nicepage](https://nicepage.com/wordpress-themes) | Free WordPress themes with drag-and-drop page builder support. |
+| 15 | [Shop Entheosweb](https://shop.entheosweb.com/) | Premium website templates and WordPress themes marketplace. |
 
 ---
 
@@ -738,52 +554,17 @@ Royalty-free music, sound effects, stock footage, and multimedia resources.
 | 1 | [Production Crate SFX](https://sfx.productioncrate.com/) | Free sound effects library with thousands of categorized audio clips. |
 | 2 | [Mazwai](https://mazwai.com/) | Free stock video footage from independent filmmakers — no attribution required. |
 | 3 | [Coverr](https://coverr.co/) | Free stock videos for websites, social media, and commercial projects. |
-| 4 | [AE Download](https://aedownload.com/) | Free After Effects project files, templates, and video presets. |
-| 5 | [Motion Array](https://motionarray.com/) | Unlimited downloads of video templates, stock footage, and motion graphics. |
-| 6 | [Wynk Music](https://wynk.in/music) | Free music streaming platform from Airtel with millions of tracks. |
-| 7 | [Uppbeat](https://uppbeat.io/) | Free music for creators — royalty-free tracks licensed for YouTube and social. |
-| 8 | [Dreamstime](https://www.dreamstime.com/) | Stock photo and video marketplace with free and premium content. |
-| 9 | [FADR Revoice](https://fadr.com/revoice) | AI-powered voice cloning and vocal transformation tool. |
-| 10 | [Artlist](https://artlist.io/) | Premium royalty-free music and SFX platform for video creators. |
-| 11 | [Media.io](https://www.media.io/) | Online video, audio, and image editing suite with AI-powered tools. |
-| 12 | [Picsart](https://picsart.com/) | All-in-one creative platform for photo editing, design, and video. |
-| 13 | [Pixlr](https://pixlr.com/x/#generator) | Free online photo editor with AI-powered tools and effects. |
-| 14 | [Mixkit](https://mixkit.co/) | Free stock video clips, music tracks, and sound effects for any project. |
-| 15 | [Pixabay Music](https://pixabay.com/music/search/genre/suspense/) | Royalty-free suspense and genre-specific music tracks for content creators. |
-| 16 | [OneHack Stock Resources](https://onehack.us/t/awesome-stock-photography-video-illustration-much-much-more-massive-collection-resources/218330) | Mega-thread compiling the best free stock photo and video resources. |
-
----
-
-## ⬇️ Premium Asset Downloaders & Unlockers
-
-Tools to download premium assets from stock sites, Envato, and creative marketplaces.
-
-| # | Resource | Description |
-|---|----------|-------------|
-| 1 | [FuckDCMA](https://fuckdcma.com/) | Download premium assets from Shutterstock, Freepik, and other platforms. |
-| 2 | [HackTack — Envato](https://hacktack.us/d/30-download-any-envato-elements-for-free-2022-tutorial-method) | Guide and tools for downloading Envato Elements assets for free. |
-| 3 | [Gift4Designer](https://gift4designer.net/) | Free graphic design resources, PSD files, and premium asset downloads. |
-| 4 | [TaiMienPhi — Envato](https://taimienphi.vn/download-envato-elements-84904/taive) | Vietnamese platform for downloading Envato Elements resources. |
-| 5 | [Envato Elements Mirror](https://elements.444444.dynv6.net/) | Community-hosted Envato Elements download mirror. |
-| 6 | [Envato Isyyy](https://envato.isyyy.com/) | Alternative Envato Elements downloader with search functionality. |
-| 7 | [ImgPanda Envato](https://imgpanda.com/envato-downloader/) | Online Envato Elements and stock image downloader tool. |
-| 8 | [StepToDown](https://steptodown.com/) | Multi-platform stock image and social media content downloader. |
-| 9 | [Udemy Downloader](https://udemy-downloader.com/) | Download Udemy course videos for offline learning. |
-| 10 | [VIP Academic Tools](https://app.vipacademictools.com/member) | Premium academic tool access including Grammarly, Turnitin, and more. |
-| 11 | [Udemy-DL (GitHub)](https://github.com/r0oth3x49/udemy-dl) | Open-source Python script for downloading Udemy courses. |
-| 12 | [Shutterstock Downloader](https://shutt.hat-stock.xyz/) | Download Shutterstock images without watermarks. |
-| 13 | [Vecteezy Downloader](https://vecteezy-downloader.beatsnoop.com/) | Download Vecteezy premium vectors and photos for free. |
-| 14 | [LiveDownloading](https://www.livedownloading.com/) | Premium stock photo downloader supporting multiple platforms. |
-| 15 | [Envato Downloader](https://envato-downloader.com/envato-downloader) | Direct Envato Elements asset downloader with URL input. |
-| 16 | [FPDLL](https://fpdll.com/) | Free premium asset downloads from Freepik, Envato, and Shutterstock. |
-| 17 | [FreePicDownloader](https://freepicdownloader.com/) | Download premium Freepik images and vectors without a subscription. |
-| 18 | [SaveWeb2Zip](https://saveweb2zip.com/en) | Download entire websites as ZIP archives for offline browsing. |
-| 19 | [Extract.pics](https://extract.pics/) | Extract and download all images from any webpage with one click. |
-| 20 | [Freepik Downloader](https://codifyformatter.org/freepik-downloader) | Download Freepik premium vectors and photos without watermarks. |
-| 21 | [Alamy Downloader](https://steptodown.com/alamy-downloader/) | Download Alamy stock photos without watermarks. |
-| 22 | [Premium.Tools](https://premium.tools/tools/) | Collection of premium stock and asset downloaders in one platform. |
-| 23 | [Downloader.la — Shutterstock](https://new.downloader.la/shutterstock-downloader.php) | Shutterstock image downloader with high-resolution output. |
-| 24 | [QuickDLR](https://quickdlr.com/) | Multi-platform premium asset and stock image downloader. |
+| 4 | [Motion Array](https://motionarray.com/) | Unlimited downloads of video templates, stock footage, and motion graphics. |
+| 5 | [Wynk Music](https://wynk.in/music) | Free music streaming platform from Airtel with millions of tracks. |
+| 6 | [Uppbeat](https://uppbeat.io/) | Free music for creators — royalty-free tracks licensed for YouTube and social. |
+| 7 | [Dreamstime](https://www.dreamstime.com/) | Stock photo and video marketplace with free and premium content. |
+| 8 | [FADR Revoice](https://fadr.com/revoice) | AI-powered voice cloning and vocal transformation tool. |
+| 9 | [Artlist](https://artlist.io/) | Premium royalty-free music and SFX platform for video creators. |
+| 10 | [Media.io](https://www.media.io/) | Online video, audio, and image editing suite with AI-powered tools. |
+| 11 | [Picsart](https://picsart.com/) | All-in-one creative platform for photo editing, design, and video. |
+| 12 | [Pixlr](https://pixlr.com/x/#generator) | Free online photo editor with AI-powered tools and effects. |
+| 13 | [Mixkit](https://mixkit.co/) | Free stock video clips, music tracks, and sound effects for any project. |
+| 14 | [Pixabay Music](https://pixabay.com/music/search/genre/suspense/) | Royalty-free suspense and genre-specific music tracks for content creators. |
 
 ---
 
@@ -884,14 +665,13 @@ Cloud training platforms, certification study resources, and lab environments.
 
 | # | Resource | Description |
 |---|----------|-------------|
-| 1 | [ExamTopics](https://www.examtopics.com/) | Largest free IT certification exam prep site covering AWS, Azure, CompTIA, Google Cloud, and more. |
-| 2 | [AWS Educate](https://www.awseducate.com/student/s/content?category=%5B%22Cloud%20Computing%22%5D&level=%5B%22Foundational%22%5D) | Amazon's free cloud learning platform for students and educators. |
-| 3 | [AWS Skill Builder](https://skillbuilder.aws/learn) | Official AWS free digital training platform with 600+ courses and labs. |
-| 4 | [AWS SysOps Learning Plan](https://skillbuilder.aws/learning-plan/WMR6SCE8Q2/cloud-operator-sysops-learning-plan-includes-labs/RCTNFV3781) | Structured AWS learning plan for Cloud Operator/SysOps certification with labs. |
-| 5 | [Cisco Networking Academy](https://www.netacad.com/profile?&tab=badges) | Free IT and networking courses from Cisco with industry-recognized badges. |
-| 6 | [PIAIC](https://www.piaic.org/) | Presidential Initiative for AI & Computing — free Pakistani tech education program. |
-| 7 | [CloudTech International](https://www.cloudtech-int.com/free-training-internship-program.html#) | Free cloud computing training and internship programs. |
-| 8 | [AITech — AWS NAVTTC](https://aitech.edu.pk/cloud-computing-aws-navttc-summer-of-code-2025/) | Pakistani AWS cloud computing program through NAVTTC Summer of Code. |
+| 1 | [AWS Educate](https://www.awseducate.com/student/s/content?category=%5B%22Cloud%20Computing%22%5D&level=%5B%22Foundational%22%5D) | Amazon's free cloud learning platform for students and educators. |
+| 2 | [AWS Skill Builder](https://skillbuilder.aws/learn) | Official AWS free digital training platform with 600+ courses and labs. |
+| 3 | [AWS SysOps Learning Plan](https://skillbuilder.aws/learning-plan/WMR6SCE8Q2/cloud-operator-sysops-learning-plan-includes-labs/RCTNFV3781) | Structured AWS learning plan for Cloud Operator/SysOps certification with labs. |
+| 4 | [Cisco Networking Academy](https://www.netacad.com/profile?&tab=badges) | Free IT and networking courses from Cisco with industry-recognized badges. |
+| 5 | [PIAIC](https://www.piaic.org/) | Presidential Initiative for AI & Computing — free Pakistani tech education program. |
+| 6 | [CloudTech International](https://www.cloudtech-int.com/free-training-internship-program.html#) | Free cloud computing training and internship programs. |
+| 7 | [AITech — AWS NAVTTC](https://aitech.edu.pk/cloud-computing-aws-navttc-summer-of-code-2025/) | Pakistani AWS cloud computing program through NAVTTC Summer of Code. |
 
 ---
 
@@ -906,13 +686,9 @@ eBooks, philosophical works, literary quotes, and digital library archives.
 | 3 | [Mashal Books](https://mashalbooks.org/) | Progressive Urdu and South Asian literature publisher and archive. |
 | 4 | [BrainyQuote — Nietzsche](https://www.brainyquote.com/authors/friedrich-nietzsche-quotes) | Friedrich Nietzsche's most powerful quotes on life, truth, and power. |
 | 5 | [Kitab o Sunnat](https://kitabosunnat.com/) | Islamic books and scholarly texts library in Urdu and Arabic. |
-| 6 | [Anna's Archive](https://annas-archive.gl/search?q=) | The world's largest open-source library search engine — books, papers, and more. |
-| 7 | [Library Genesis (LibGen)](https://libgen.im/) | Massive free eBook and academic paper library — the shadow library of the internet. |
-| 8 | [LibGen.rs](https://libgen.rs/) | Mirror of Library Genesis with millions of books and scientific articles. |
-| 9 | [Scribd (VPDFS)](https://scribd.vpdfs.com/) | Free access portal to Scribd documents and books without subscription. |
-| 10 | [Springer Nature Covers](https://covers.springernature.com/search/CoverSearch.html) | Search and browse Springer Nature book covers and publication metadata. |
-| 11 | [Rekhta](https://www.rekhta.org/rubaai/tum-to-ai-mehrbaan-anuuthe-nikle-mir-taqi-mir-rubaai?lang=ur) | Largest Urdu poetry and literature library with ghazals, nazms, and rubaai. |
-| 12 | [Marfat](http://marfat.com/default.aspx) | Urdu Islamic literature and spiritual texts digital library. |
+| 6 | [Springer Nature Covers](https://covers.springernature.com/search/CoverSearch.html) | Search and browse Springer Nature book covers and publication metadata. |
+| 7 | [Rekhta](https://www.rekhta.org/rubaai/tum-to-ai-mehrbaan-anuuthe-nikle-mir-taqi-mir-rubaai?lang=ur) | Largest Urdu poetry and literature library with ghazals, nazms, and rubaai. |
+| 8 | [Marfat](http://marfat.com/default.aspx) | Urdu Islamic literature and spiritual texts digital library. |
 
 ---
 
@@ -957,16 +733,12 @@ Open courseware, free textbooks, CS study notes, and academic resources.
 | 6 | [Coursesity](https://coursesity.com/) | Curated free online courses from platforms like Coursera, edX, and Udemy. |
 | 7 | [CodeHype](https://codehype.in/) | Free coding tutorials and mini-courses for beginners. |
 | 8 | [GoalKicker](https://goalkicker.com/) | Free programming notes compiled from Stack Overflow documentation. |
-| 9 | [PDFiles](https://www.pdfiles.net/) | Free PDF textbook and study material download portal. |
-| 10 | [FreeComputerBooks](https://freecomputerbooks.com/) | Directory of free computer science textbooks, lecture notes, and tutorials. |
-| 11 | [CourseHeist](https://courseheist.live/) | Aggregator for finding free access to premium course content. |
-| 12 | [Kemono](https://kemono.cr/) | Public archive of creator content from Patreon, Fanbox, and more. |
-| 13 | [StudyHouse Online](https://www.studyhouse.online/) | NUML past papers, study notes, and free academic resources for Pakistani students. |
-| 14 | [Homeworkify](https://homeworkify.st/mirror-1) | Free homework help and textbook solution unlocker — Chegg alternative. |
-| 15 | [WikiHow](https://www.wikihow.com/Main-Page) | The world's largest how-to guide with step-by-step instructions for everything. |
-| 16 | [Darebee](https://darebee.com/) | Free fitness programs, workout routines, and exercise challenges. |
-| 17 | [SuperCook](https://www.supercook.com/#/desktop) | Recipe generator that finds meals based on ingredients you already have. |
-| 18 | [Cymath](https://www.cymath.com/) | Free math problem solver with step-by-step explanations. |
+| 9 | [FreeComputerBooks](https://freecomputerbooks.com/) | Directory of free computer science textbooks, lecture notes, and tutorials. |
+| 10 | [StudyHouse Online](https://www.studyhouse.online/) | NUML past papers, study notes, and free academic resources for Pakistani students. |
+| 11 | [WikiHow](https://www.wikihow.com/Main-Page) | The world's largest how-to guide with step-by-step instructions for everything. |
+| 12 | [Darebee](https://darebee.com/) | Free fitness programs, workout routines, and exercise challenges. |
+| 13 | [SuperCook](https://www.supercook.com/#/desktop) | Recipe generator that finds meals based on ingredients you already have. |
+| 14 | [Cymath](https://www.cymath.com/) | Free math problem solver with step-by-step explanations. |
 
 ---
 
@@ -996,46 +768,16 @@ Compress, resize, convert, and optimize images and media files.
 
 ---
 
-## 🔧 Software Downloads & Activation Tools
+## 🔧 Software Downloads & System Guides
 
-Software download portals, crack tools, and activation utilities.
+Extension archives, Windows setup guides, and software tutorials.
 
 | # | Resource | Description |
 |---|----------|-------------|
-| 1 | [MediaFireTrend](https://mediafiretrend.com/) | Software and app downloads hosted on MediaFire with fast links. |
-| 2 | [TaiWebs (French)](https://fr.taiwebs.com/) | French-language software download portal with clean mirrors. |
-| 3 | [TaiWebs (English)](https://en.taiwebs.com/) | English-language version of TaiWebs software downloads. |
-| 4 | [Softowa](https://softowa.com/) | Free software download site with detailed installation guides. |
-| 5 | [GetModsAPK](https://getmodsapk.com/) | Modded Android APK downloads with latest app versions. |
-| 6 | [PeskTop](https://pesktop.com/) | Arabic and English software download portal with direct links. |
-| 7 | [Soft98](https://soft98.ir/) | Persian software download site — one of Iran's most popular resources. |
-| 8 | [OneHack](https://onehack.us/) | Community forum for software cracks, tutorials, and digital tools. |
-| 9 | [CracksHash](https://crackshash.com/) | Software crack and keygen download portal with verified files. |
-| 10 | [HacksNation](https://hacksnation.com/) | Premium software tools and accounts available for free. |
-| 11 | [FreePROSoftz](https://freeprosoftz.com/) | Professional software downloads with activation instructions. |
-| 12 | [HiSofts](https://hisofts.net/en/) | Multi-language software download portal with direct mirrors. |
-| 13 | [Dr-Farfar](https://www.dr-farfar.com/) | Software activation tools and premium account giveaways. |
-| 14 | [Dr-Farfar — VidIQ](https://www.dr-farfar.com/vidiq/) | Free VidIQ premium features for YouTube channel growth. |
-| 15 | [FreCombo](https://www.frecombo.com/) | Combo lists and premium account resources for testing. |
-| 16 | [DownloadFreeCracks](https://downloadfreecracks.com/) | Cracked software downloads with detailed version changelogs. |
-| 17 | [CRX4Chrome](https://www.crx4chrome.com/) | Download Chrome extension CRX files for manual installation. |
-| 18 | [iGetIntoPC](https://igetintopc.com/adobe-premiere-pro-2024-free-download/) | Direct download links for professional software like Adobe Creative Suite. |
-| 19 | [DownloadPirate](https://www.downloadpirate.com/) | Software and game download portal with fast mirror links. |
-| 20 | [KaranPC](https://karanpc.com/) | Pre-activated software downloads for Windows applications. |
-| 21 | [CrackingCity](https://www.crackingcity.com/) | Software cracking community with tutorials and tool downloads. |
-| 22 | [DownloadDevTools](https://downloaddevtools.com/en) | Developer-focused software tools and SDK downloads. |
-| 23 | [DrComputer247](https://www.drcomputer247.com/) | Arabic tech portal with software downloads and tutorials. |
-| 24 | [MySoftwareFree](https://mysoftwarefree.com/freegrabapp-free-amazon-prime-download-premium-free-download/) | Premium software downloads with FreeGrabApp integrations. |
-| 25 | [MAS — Microsoft Activation Scripts](https://massgrave.dev/) | Open-source Windows and Office activator supporting HWID, Ohook, and KMS. |
-| 26 | [Kraken](https://kraken.nswardh.com/) | Multi-purpose download and activation toolkit. |
-| 27 | [MEGA Archive](https://mega.nz/folder/4VFXBKpT#qEzhyi-DmXLLSXfQuAJuyg) | Cloud-hosted software and resource archive on MEGA. |
-| 28 | [Ask4PC](https://ask4pc.net/c/windows-os/) | Windows OS downloads and pre-activated software installation guides. |
-| 29 | [Anturis — Windows 11 ISO](https://anturis.com/download-windows-11-iso/) | Direct Windows 11 ISO download links with clean images. |
-| 30 | [SysCute — Windows 11 TPM Bypass](https://www.syscute.com/install-windows-11-without-tpm-secure-boot.html) | Guide to installing Windows 11 on unsupported hardware without TPM. |
-| 31 | [4HowCrack](https://4howcrack.com/) | Software cracks, patches, and serial key database. |
-| 32 | [CrackingDrift](https://www.crackingdrift.to/search/?q=netflix&quick=1) | Premium account cracking community with tools and tutorials. |
-| 33 | [PJSins](https://pjsins.com/) | Software cracks, premium tools, and digital resource downloads. |
-| 34 | [TheTechTide](https://www.thetechtide.org/) | Tech tutorials, software guides, and digital tool reviews. |
+| 1 | [CRX4Chrome](https://www.crx4chrome.com/) | Download Chrome extension CRX files for manual installation. |
+| 2 | [Anturis — Windows 11 ISO](https://anturis.com/download-windows-11-iso/) | Direct Windows 11 ISO download links with clean images. |
+| 3 | [SysCute — Windows 11 TPM Bypass](https://www.syscute.com/install-windows-11-without-tpm-secure-boot.html) | Guide to installing Windows 11 on unsupported hardware without TPM. |
+| 4 | [TheTechTide](https://www.thetechtide.org/) | Tech tutorials, software guides, and digital tool reviews. |
 
 ---
 
@@ -1070,6 +812,8 @@ Collections of multiple tools in one platform — converters, generators, and ut
 |---|----------|-------------|
 | 1 | [WebDevPuneet Tools](https://tools.webdevpuneet.com/) | Collection of web developer tools — formatters, converters, and generators. |
 | 2 | [MrFreeTools](https://mrfreetools.com/skills/) | Free online tools for LinkedIn skill assessments and professional development. |
+| 3 | [SaveWeb2Zip](https://saveweb2zip.com/en) | Download entire websites as ZIP archives for offline browsing. |
+| 4 | [Extract.pics](https://extract.pics/) | Extract and download all images from any webpage with one click. |
 
 ---
 
@@ -1079,10 +823,7 @@ Useful resources that don't fit neatly into other categories but are too good to
 
 | # | Resource | Description |
 |---|----------|-------------|
-| 1 | [FMHY — Live Sports](https://fmhy.pages.dev/video#live-sports) | Community-curated list of free live sports streaming sources. |
-| 2 | [Streamain](https://streamain.com/en) | Live TV and sports streaming aggregator with global channel coverage. |
-| 3 | [ListeaMed](https://listeamed.net/) | Discover hidden Steam game deals and free-to-keep promotions. |
-| 4 | [C&C Generals Game Files (Google Drive)](https://drive.google.com/drive/u/0/folders/1GQHFL12Gx2OG_JD-dQvPZqZiAkZj4xTG) | Complete Command & Conquer: Generals and Zero Hour game setups. |
+| 1 | [ListeaMed](https://listeamed.net/) | Discover hidden Steam game deals and free-to-keep promotions. |
 
 ---
 
@@ -1111,6 +852,7 @@ Contributions are welcome and encouraged! To keep this resource organized and hi
 - ❌ **Don't** submit broken or dead links
 - ❌ **Don't** add referral or affiliate links
 - ❌ **Don't** submit low-quality or spam sites
+- ❌ **Don't** submit sites that offer unauthorized copies of copyrighted media, software, or other protected works
 
 ---
 
